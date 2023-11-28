@@ -1,7 +1,7 @@
 ---
-title: Index
+title: Home
 nav_order: 1
-description: "Salesforce Indicators helps users improve productivity and efficiency by providing at-a-glance icons for your Salesforce records."
+description: "Salesforce Indicators helps users improve productivity and efficiency by providing at-a-glance visuals for your Salesforce records."
 permalink: /
 ---
 
