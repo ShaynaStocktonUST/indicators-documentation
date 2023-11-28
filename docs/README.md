@@ -1,6 +1,6 @@
 # Salesforce Indicators
 
-Welcome to the Salesforce Indicators Wiki.
+Welcome to  Salesforce Indicators.
 
 Here you will find all of the information you need to get started with the Salesforce Indicators App.
 
