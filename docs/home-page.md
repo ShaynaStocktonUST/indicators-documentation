@@ -1,7 +1,7 @@
 ---
 title: Home
 nav_order: 1
-description: "Salesforce Indicators helps users improve productivity and efficiency by providing at-a-glance visuals for record data."
+description: "Salesforce Indicators helps users improve productivity and efficiency by providing at-a-glance visuals for Salesforce records."
 permalink: /
 ---
 
