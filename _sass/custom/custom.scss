@@ -31,7 +31,7 @@
 }
 
 body, html {
-  font-size: 1.1rem;
+  //font-size: 1.1rem;
 }
 
 a {
@@ -67,7 +67,7 @@ a {
 }
 
 .side-bar {
-  background-color: #D7ECF3;
+  background-color: #e5f7f0;
 }
 
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
@@ -87,8 +87,8 @@ a {
 #globalFooter img {
   float: left;
   margin: 5px 20px 5px 5px;
-  max-width: 200px;
-  width: 30%;
+  max-width: 100px;
+  width: 10%;
 }
 
 footer .utterances {
