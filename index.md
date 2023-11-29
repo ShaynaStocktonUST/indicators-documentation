@@ -3,6 +3,7 @@ title: Home
 nav_order: 1
 description: "Salesforce Indicators helps users improve productivity and efficiency by providing at-a-glance visuals for your Salesforce records."
 permalink: /
+has_toc: false
 ---
 
 # What is Salesforce Indicators?
