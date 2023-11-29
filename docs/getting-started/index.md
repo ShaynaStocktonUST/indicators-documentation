@@ -13,7 +13,7 @@ Install Salesforce Indicators from the Salesforce.org Install page [install.sale
 
 **After install:**
 
-Assign the Permission Set "**Indicators Setup Access**" to your user.
+Assign the Permission Set "**Indicators Setup Access**" to your Salesforce Administrator user.
 
 ### Congratulations! Now you are ready to start setting up Salesforce Indicators for your org!
 
