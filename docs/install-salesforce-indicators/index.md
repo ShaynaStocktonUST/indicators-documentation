@@ -10,7 +10,7 @@ Thank you for choosing Salesforce Indicators to enhance your Lightning Pages! Th
 [Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest){: .btn .btn-green }{:target="_blank"}
 
 * Install the latest version of the managed package from the [Install Page](https://install.salesforce.org/products/indicators/latest). 
-* See the [Release Notes](docs/release-notes) for the updates included in the latest version.
+* See the [Release Notes](/docs/release-notes) for the updates included in the latest version.
 
 ## Using Metadeploy to Install
 
@@ -29,12 +29,12 @@ As with all managed packages, the installed package is visible in **Setup** > **
 * Assign the Permission Set **Indicators Setup Access** to your Salesforce Administrator user.
 * Assign the Permission Set **Indicators User Access** to your Users who will be viewing the Indicators. 
 
-<img src="https://SFDO-Community-Sprints/indicators-documentation/assets/images/Setup/AssignPermissionSet.png" width="590" height="280"/>
+<img src="https://SFDO-Community-Sprints.github.io/indicators-documentation/docs/images/setup/AssignPermissionSet.png" width="590" height="280"/>
 
 
 * Using the App Launcher button (9 dots), search for **Indicators Setup** and open the Indicators Setup tab. 
 
-<img src="https://SFDO-Community-Sprints/indicators-documentation/assets/images/Setup/OpenIndicatorsSetup.png" width="590" height="280"/>
+<img src="/images/setup/OpenIndicatorsSetup.png" width="590" height="280"/>
 
 Congratulations! Now you are ready to start setting up Salesforce Indicators for your org!
 
