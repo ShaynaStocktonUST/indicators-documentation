@@ -44,4 +44,6 @@ OR, alternatively:
 * Type part of the name in the lookup fields and it will auto complete them on Save
 * Use increments of 10 or more when setting up the Order, so you can add new Indicators in between without re-ordering the whole bundle. Eg 10, 20, 30, then add a new Indicator at 14 later. 
 
-
+## Next Steps
+* Add Optional [Extensions](../item-extension)
+* Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../components/the-key)
