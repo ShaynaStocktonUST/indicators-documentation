@@ -6,7 +6,7 @@ nav_order: 1
 has_children: false
 ---
 
-See [Install Salesforce Indicators](../install-salesforce-indicators/) if you have not already installed Salesforce Indicators.
+See [Install Salesforce Indicators](../../install-salesforce-indicators/) if you have not already installed Salesforce Indicators.
 
 ## Add a new Indicator Bundle
 * Go to the *Indicators Setup* Tab
@@ -54,13 +54,13 @@ OR, alternatively
 * Titles and Icons are not required on Bundles, but they look best when the Large Icons are shown. a Bundle of small Icons used in a strip (see Examples) can look good with no Title and Icon. 
 * If in doubt, just use the standard icon matching that record (eg `standard:account`)
 * Don't use too many colors or icon styles. Try to stick with the [SLDS color pallette](https://www.lightningdesignsystem.com/design-tokens/){:target="_blank"}
-* See [Additional Complementary Apps and Components to Enhance Your Org](../other-apps)
+* See [Additional Complementary Apps and Components to Enhance Your Org](../../other-apps)
 
 ## Next Steps
 
-* Use the New button to add a new [Indicator Item](../indicator-Item), and continue to add more Items
+* Use the New button to add a new [Indicator Item](../indicator-item), and continue to add more Items
 * Use the New button to add a new [Indicator Bundle Item](../indicator-bundle-item) to link the Bundle to the Item
-* Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../the-key)
+* Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../components/the-key)
 * Optionally use the *New* button to add a new [Indicator Item Extension](../item-extension) to an existing Item
 * Watch the 🎥 [Setup Video](https://www.youtube.com/watch?v=f76BGw0H2kg){:target="_blank"} for more details on how to setup Salesforce Indicators.
 
