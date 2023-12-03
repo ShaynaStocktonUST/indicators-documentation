@@ -40,8 +40,8 @@ Congratulations! Now you are ready to start setting up Salesforce Indicators for
 ## Next Steps
 
 * [Plan your Indicators](../plan-indicators) and Data
-* Use the New button to add a new [Indicator Bundle](indicator-bundle)
-* Use the New button to add a new [Indicator Item](indicator-item), and continue to add more Items
-* Use the New button to add a new [Indicator Bundle](indicator-bundle-item) Item to link the Bundle to the Item
-* Optionally use the New button to add a new [Indicator Item Extension](item-extension) to an existing Item
-* Add the [Indicator Bundle](indicator-bundle) to the Lightning Record Page. 
+* Use the New button to add a new [Indicator Bundle](../indicator-bundle)
+* Use the New button to add a new [Indicator Item](../indicator-item), and continue to add more Items
+* Use the New button to add a new [Indicator Bundle](../indicator-bundle-item) Item to link the Bundle to the Item
+* Optionally use the New button to add a new [Indicator Item Extension](../item-extension) to an existing Item
+* Add the [Indicator Bundle](../indicator-bundle) to the Lightning Record Page. 
