@@ -10,7 +10,7 @@ Thank you for choosing Salesforce Indicators to enhance your Lightning Pages! Th
 [Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest){: .btn .btn-green }{:target="_blank"}
 
 * Install the latest version of the managed package from the [Install Page](https://install.salesforce.org/products/indicators/latest). 
-* See the [Release Notes](/docs/release-notes) for the updates included in the latest version.
+* See the [Release Notes](/release-notes) for the updates included in the latest version.
 
 ## Using Metadeploy to Install
 
@@ -34,13 +34,13 @@ As with all managed packages, the installed package is visible in **Setup** > **
 
 * Using the App Launcher button (9 dots), search for **Indicators Setup** and open the Indicators Setup tab. 
 
-<img src="/images/setup/OpenIndicatorsSetup.png" width="590" height="280"/>
+<img src="/docs/images/setup/OpenIndicatorsSetup.png" width="590" height="280"/>
 
 Congratulations! Now you are ready to start setting up Salesforce Indicators for your org!
 
 ## Next Steps
 
-* [Plan your Indicators](plan-indicators) and Data
+* [Plan your Indicators](/plan-indicators) and Data
 * Use the New button to add a new [Indicator Bundle](indicator-bundle)
 * Use the New button to add a new [Indicator Item](indicator-item), and continue to add more Items
 * Use the New button to add a new [Indicator Bundle](indicator-bundle-item) Item to link the Bundle to the Item
