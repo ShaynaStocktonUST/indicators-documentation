@@ -43,7 +43,6 @@ a[href*="//"]:not([href*="sfdo-community-sprints.github.io"]) {
 }
 
 a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
-	position: absolute;
 	content: '';
 	display: inline-block;
 	width: 0.9em;
@@ -53,7 +52,6 @@ a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-	transform: translateY(0.25em);
 }
 
 .site-header {
