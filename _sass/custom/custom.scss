@@ -38,11 +38,11 @@ a {
   //color: #005ed1;
 }
 
-a[rel*="external"] {
+a[href^="http://"]:not([href*="indicators-documentation"]) {
 	padding-right: 1.25em;
 }
 
-a[rel*="external"]::after {
+a[href^="http://"]:not([href*="indicators-documentation"])::after {
 	position: absolute;
 	content: '';
 	display: inline-block;
