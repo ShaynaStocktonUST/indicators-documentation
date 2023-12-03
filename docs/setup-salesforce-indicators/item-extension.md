@@ -29,7 +29,7 @@ An item for a Donor Status with a criteria of "contains" might have the followin
 * Open the *Indicators Setup Menu*
 * Use the *New* button to add a new **Indicator Item Extension**
 
-## Edit an existing Indicator Itrem
+## Edit an existing Indicator Item
 
 * Go to the *Indicator Settings* Tab
   * Choose the Indicator Bundle that the Indicator Item is on (or the Item will be in *Unbundled Items* if the Item is not on a Bundle yet). 
