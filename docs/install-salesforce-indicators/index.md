@@ -9,12 +9,12 @@ Thank you for choosing Salesforce Indicators to enhance your Lightning Pages! Th
 
 [Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest){: .btn .btn-green }{:target="_blank"}
 
-* Install the latest version of the managed package from the [Install Page](https://install.salesforce.org/products/indicators/latest). 
+* Install the latest version of the managed package from the [Install Page](https://install.salesforce.org/products/indicators/latest){:target="_blank"}. 
 * See the [Release Notes](../release-notes) for the updates included in the latest version.
 
 ## Using Metadeploy to Install
 
-Salesforce Indicators is a managed package and has been security reviewed by Salesforce. Installation, along with many other great Salesforce.org Open Source Commons applications, is done through Salesforce.org's [MetaDeploy installer](https://github.com/SFDO-Tooling/MetaDeploy).
+Salesforce Indicators is a managed package and has been security reviewed by Salesforce. Installation, along with many other great Salesforce.org Open Source Commons applications, is done through Salesforce.org's [MetaDeploy installer](https://github.com/SFDO-Tooling/MetaDeploy){:target="_blank"}.
 
 * On the Metadeploy page, log into your org. You will be asked to give the Metadeploy tool access to your org. This is necessary for installation. 
 * Click the **Install** button.
