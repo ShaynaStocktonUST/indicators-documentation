@@ -38,11 +38,11 @@ a {
   //color: #005ed1;
 }
 
-a[href^="http://"]:not([href*="indicators-documentation"]) {
+a[href*="//"]:not([href*="sfdo-community-sprints.github.io"]) {
 	padding-right: 1.25em;
 }
 
-a[href^="http://"]:not([href*="indicators-documentation"])::after {
+a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
 	position: absolute;
 	content: '';
 	display: inline-block;
