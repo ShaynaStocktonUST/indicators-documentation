@@ -62,7 +62,7 @@ OR, alternatively:
 
 * See the Examples and Recipes in this documentation for ideas on how to use these settings
 * Zero Value Handling with the setting of `Treat Zeros as Blanks` works great for DLRS or NPSP Rollup fields where the field value will always be 0 or more. eg Count of Open Opportunities for an Account used in an Indicator to show that the Account has Open Opportunities. 
-* When using [Extensions](../item-extensions) the Configuration section can be left blank
+* When using [Extensions](../item-extension) the Configuration section can be left blank
 
 **💡Design Tips**
 
