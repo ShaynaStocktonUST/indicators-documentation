@@ -17,10 +17,12 @@ See [Install Salesforce Indicators](../../install-salesforce-indicators/) if you
 
 ![Indicators Setup Menu](../images/setup/IndicatorsSetupMenu.png){: width="590"}
 
+* Use the *New* button to add a new **Indicator Bundle**
+
 ## Edit an existing Indicator Bundle
 
 * Go to the Tab *Indicators Setup* Tab: 
-  * Choose the Indicator Bundle from the drop down list. The existing bundle details will be displayed
+  * Choose the Indicator Bundle from the drop down list. The existing bundle details will be displayed.
   * Click the *Edit Bundle* button
 
 OR, alternatively
