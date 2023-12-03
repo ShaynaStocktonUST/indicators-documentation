@@ -5,31 +5,29 @@ See [[Installing Salesforce Indicators]] if you have not already installed Sales
 * Before creating your first **Indicator Bundle** or **Indicator Item** consider the data that will drive your indicators. 
 * Below is a visual of the data model for each Component.
 
-![image](https://github.com/SFDO-Community/Salesforce-Indicators/assets/2966583/638907ca-fd23-43e7-9001-aa3e96ffbddc)
+![Salesforce Indicators Data Model](../images/setup/DataStructure.png){: width="590"}
 
 * Consider your field design. Design field to be multi-use where ever possible.
 >>this needs to be built out further describing the challenge of using boolean fields with other data, giving the example of memberships (is active) and months to end date
-* Are you using [DLRS?](https://github.com/SFDO-Community/Salesforce-Indicators/wiki/Additional-Complementary-Apps-and-Components-to-Enhance-Your-Org#declarative-lookup-rollup-summary-salesforce-open-source-commons) Consider whether this app could help you surface the indicators you need.
+* Are you using [Declarative Lookup Rollup Summaries (DLRS)?](https://github.com/SFDO-Community/Salesforce-Indicators/wiki/Additional-Complementary-Apps-and-Components-to-Enhance-Your-Org#declarative-lookup-rollup-summary-salesforce-open-source-commons) Consider whether DLRS could help you surface the data for the indicators you need.
 
 ## 2. Access the Salesforce Indicators setup Item
 Go to the **Indicators Setup** Item
-> <img src="https://github.com/SFDO-Community/Salesforce-Indicators/assets/128614792/9f15f42c-6083-43a0-bf45-0bb3ceab3a9e" 
-width="470" height="280"/>
+![Open Indicators Setup](../images/setup/OpenIndicatorsSetup.png){: width="590"}
 
-> <img src="https://github.com/SFDO-Community/Salesforce-Indicators/assets/128614792/aba7a9bc-7707-4efa-8da1-14c650a6c896"
-width="470" height="280"/>
+![Indicators Setup Menu](../images/setup/IndicatorsSetupMenu.png){: width="590"}
 
 ## 2. Set up your Indicator Bundle
 
-* Use the New button to add a new [Indicator Bundle](Indicator-Bundle)
+* Use the New button to add a new [Indicator Bundle](indicator-bundle)
 
 ## 3. Add your Indicator Item/s
 
-* Use the New button to add a new [Indicator Item](Indicator-Item), and continue to add more Items
+* Use the New button to add a new [Indicator Item](indicator-item), and continue to add more Items
 
 ## 4. Add your Indicator Bundle Item
 
-* Use the New button to add a new [Indicator Bundle Item](Indicator-Bundle-Items) to link the Bundle to the Item
+* Use the New button to add a new [Indicator Bundle Item](indicator-bundle-items) to link the Bundle to the Item
 
 ## 5. Add to your Lightning Page
 
