@@ -1,19 +1,19 @@
 ---
 layout: default
-title: The Indicator Bundle
+title: The Indicator Item
 parent: Set Up Salesforce Indicators
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
-See [Indicator Bundle](indicator-bundle) to set up the **Indicator Bundle** before setting up **Indicator Items**.
+See [Indicator Bundle](../indicator-bundle) to set up the **Indicator Bundle** before setting up **Indicator Items**.
 
 ## Add a new Indicator Item
 * Go to the *Indicators Setup* Tab
 
 ![Open Indicators Setup](../images/setup/OpenIndicatorsSetup.png){: width="590"}
 
-💡 If you don't see the *Indicator Setup* Tab, then ensure you have granted your user the correct [Permissions](../).
+💡 If you don't see the *Indicator Setup* Tab, then ensure you have granted your user the correct [Permissions](../install-salesforce-indicators).
 
 * Open the *Indicators Setup Menu*
 
@@ -62,7 +62,7 @@ OR, alternatively:
 
 * See the Examples and Recipes in this documentation for ideas on how to use these settings
 * Zero Value Handling with the setting of `Treat Zeros as Blanks` works great for DLRS or NPSP Rollup fields where the field value will always be 0 or more. eg Count of Open Opportunities for an Account used in an Indicator to show that the Account has Open Opportunities. 
-* When using [Extensions](item-extensions) the Configuration section can be left blank
+* When using [Extensions](../item-extensions) the Configuration section can be left blank
 
 **💡Design Tips**
 
@@ -94,8 +94,8 @@ OR, alternatively:
 
 ## Reference
 
-* See 📘 [[Indicator Item Configuration Matrix]] for how each field contributes to the end result. This is for advanced troubleshooting. Try using an example from a Recipe for simple settings. 
+* See 📘 [Indicator Item Configuration Matrix](item-configuration-matrix) for how each field contributes to the end result. This is for advanced troubleshooting. Try using an example from a Recipe for simple settings. 
 
 ## Next Steps
-* Add Optional [Extensions](item-extension)
-* Add the Indicator to a Bundle using [Indicator Bundle Items](indicator-bundle-item)
+* Add Optional [Extensions](../item-extension)
+* Add the Indicator to a Bundle using [Indicator Bundle Items](../indicator-bundle-item)
