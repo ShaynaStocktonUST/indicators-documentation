@@ -95,7 +95,7 @@ compress_html:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Doc Repository  ":
+  "Doc Repository":
     - "//github.com/SFDO-Community-Sprints/indicators-documentation/"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

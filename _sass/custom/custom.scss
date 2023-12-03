@@ -72,6 +72,10 @@ a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
   padding-bottom: 0;
 }
 
+.aux-nav {
+  padding-right: 1.25em;
+}
+
 .site-title {
   padding: 0;
 }
