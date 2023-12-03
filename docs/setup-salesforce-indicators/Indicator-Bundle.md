@@ -31,6 +31,7 @@ OR, alternatively
   * Click *Edit* next to the Bundle you want to edit
 
 ## Create an Indicator Bundle
+
 |Field|Example Value|Description|Tip|
 |---------|----------|-------------------|--------------------------|
 |Label|`Account Bundle`||Include the Object Name in the Label
