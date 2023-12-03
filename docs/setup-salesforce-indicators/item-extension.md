@@ -63,10 +63,10 @@ OR, alternatively:
 
 
 ## Tips
-* See Recipes that use Extensions for more ideas.
-* If you create **Indicaotr Item Extensions** to cover all required variations, the **Indicator Item** does not need to have the Icon fields entered.
+* See Recipes that use Extensions for more ideas
+* If you create **Indicator Item Extensions** to cover all required variations, the **Indicator Item** does not need to have the Icon fields entered.
   * Eg values are Hot, Warm and Cold, and there is an Extension create for each value. There is no need to set up an Icon to show for *any value* or *blank value*.
 
 ## Next Steps
-* Create more Item Extensions as needed
+* Create more **Indicator Item Extensions** as needed
 * Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../components/the-key)
