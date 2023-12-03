@@ -10,12 +10,10 @@ The [Indicator Bundle](../indicator-bundle) is added to the Lightning Record Pag
 
 ## Add the Bundle to your Lightning Page
 
-After the Indicator Bundle, Indicator Items, and Indicator Bundle Items CMDT records have been created...
-
-* Edit your Lightning Record Page (eg Account), and add the **Indicator Bundle** Component by dragging it to the desired location
-* Choose the **Indicator Bundle** to show on the Page (eg Account Company Details). Ensure it is the correct Bundle to display for that Object
+* Edit your Lightning Record Page (eg Account), and add the **Indicator Bundle** Component by dragging it to the desired location.
+* Choose the **Indicator Bundle** to show on the Page (eg Account Company Details). Ensure it is the correct Bundle to display for that Object.
 * Optionally choose to *Display Title* 
-* Optionally choose to *Dieplay Description*
+* Optionally choose to *Display Description*
 * Choose the *Indicator Size* - large or medium
 * Choose the *Indicator Shape* - base or circle
 * Optionally choose to show the *Refresh Button*. This is useful whilst you are setting up your Bundles.
@@ -24,12 +22,17 @@ After the Indicator Bundle, Indicator Items, and Indicator Bundle Items CMDT rec
 ## Tips
 
 **💡Setup Tips**
-* :exclamation: Remember to Save and [Activate](https://help.salesforce.com/s/articleView?id=sf.lightning_app_builder_customize_lex_pages_activate.htm&type=5) the Lightning Record Page :exclamation:
-* The **Indicator Bundles** can be hidden using [Component Visibility](https://help.salesforce.com/s/articleView?id=sf.lightning_page_components_visibility.htm&type=5), just like any other Component.
+* You can add the **Indicator Bundle** to the Lightning Record Page before any **Indicator Items** have been added, and then refresh the Bundle as you add your Items. 
+* ❗Remember to Save and [Activate](https://help.salesforce.com/s/articleView?id=sf.lightning_app_builder_customize_lex_pages_activate.htm&type=5) the Lightning Record Page❗
+* The **Indicator Bundle** can be hidden using [Component Visibility](https://help.salesforce.com/s/articleView?id=sf.lightning_page_components_visibility.htm&type=5), just like any other Component.
 
 **💡Design Tips**
 * For one or two Bundles on the Page it is nice to show an Icon, Title, and Description for each Bundle. 
-* For bundles with medium icons it may be OK to not show the Title and Description. 
+* For Bundles with medium icons it may be OK to not show the Title and Description. 
+
+**⚠️ Things to Note**
+
+* If all **Indicator Item** are not visible, the empty **Indicator Bundle** will still be visible and will look strange. There is a feature request to make hiding the Bundle automatic if there are no Items visible, but in the meantime, either set Component Visibility on the Bundle, or ensure at least one Item will always be visible.
 
 ## Next Steps
 

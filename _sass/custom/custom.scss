@@ -39,7 +39,7 @@ a {
 }
 
 a[href*="//"]:not([href*="sfdo-community-sprints.github.io"]) {
-	padding-right: 1.25em;
+	padding-right: 0.75em;
 }
 
 a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
