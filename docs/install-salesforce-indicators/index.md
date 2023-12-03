@@ -17,21 +17,22 @@ Thank you for choosing Salesforce Indicators to enhance your Lightning Pages! Th
 Salesforce Indicators is a managed package and has been security reviewed by Salesforce. Installation, along with many other great Salesforce.org Open Source Commons applications, is done through Salesforce.org's [MetaDeploy installer](https://github.com/SFDO-Tooling/MetaDeploy){:target="_blank"}.
 
 * On the Metadeploy page, log into your org. You will be asked to give the Metadeploy tool access to your org. This is necessary for installation. 
-* Click the **Install** button.
+* Click the *Install* button.
 * Confirm the Product Terms of Use and Licences around the use of the Open Source licence. 
 * The install will begin, you can expand the Steps section to see the progress of the Install. 
-* When the Installation is successful, click **View Org** to open your org. 
+* When the Installation is successful, click *View Org* to open your org. 
 
-As with all managed packages, the installed package is visible in **Setup** > **Installed Packages**.
+As with all managed packages, the installed package is visible in *Setup* > *Installed Packages*.
 
 ## After install
 
-* Assign the Permission Set **Indicators Setup Access** to your Salesforce Administrator user.
+* Assign the Permission Set *Indicators Setup Access* to your Salesforce Administrator user.
+* See [Permissions Explained](../Permissions-Explained) for Salesforce permissions needed, and more technical information.
 
 ![Assign Permission Set](../images/setup/AssignPermissionSet.png){: width="590"}
 
-* Assign the Permission Set **Indicators User Access** to your Users who will be viewing the Indicators. 
-* Using the App Launcher button (9 dots), search for **Indicators Setup** and open the Indicators Setup tab. 
+* Assign the Permission Set *Indicators User Access* to your Users who will be viewing the Indicators. 
+* Using the App Launcher button (9 dots), search for *Indicators Setup* and open the Indicators Setup tab. 
 
 ![Open Indicators Setup](../images/setup/OpenIndicatorsSetup.png){: width="590"}
 
