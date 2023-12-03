@@ -8,7 +8,7 @@ has_children: false
 
 See [Install Salesforce Indicators](../install-salesforce-indicators/) if you have not already installed Salesforce Indicators.
 
-### Add a new Indicator Bundle
+## Add a new Indicator Bundle
 * Go to the *Indicators Setup* Tab
 
 ![Open Indicators Setup](../images/setup/OpenIndicatorsSetup.png){: width="590"}
@@ -17,7 +17,7 @@ See [Install Salesforce Indicators](../install-salesforce-indicators/) if you ha
 
 ![Indicators Setup Menu](../images/setup/IndicatorsSetupMenu.png){: width="590"}
 
-### Edit an existing Indicator Bundle
+## Edit an existing Indicator Bundle
 
 * Go to the Tab *Indicators Setup* Tab: 
   * Choose the Indicator Bundle from the drop down list. The existing bundle details will be displayed
@@ -30,7 +30,7 @@ OR, alternatively
   * Scroll to *Indicator Bundles* and click *Manage Records*
   * Click *Edit* next to the Bundle you want to edit
 
-## Create an Indicator Bundle
+## Indicator Bundle Fields
 
 |Field|Example Value|Description|Tip|
 |---------|----------|-------------------|--------------------------|
@@ -43,7 +43,7 @@ OR, alternatively
 |Active|`true`||Uncheck Active if you need to quickly remove the Bundle from being visible on the page
 |Description|`Shown on the Account page for standard Business Accounts`||Be an angel and write something useful here, _especially_ if you have more than one bundle for the same Object. Your future self will thank you
 
-## Tips
+## Indicator Bundle Tips
 
 **💡Setup Tips**
 
@@ -61,6 +61,6 @@ OR, alternatively
 * Use the New button to add a new [Indicator Item](../indicator-Item), and continue to add more Items
 * Use the New button to add a new [Indicator Bundle Item](../indicator-bundle-item) to link the Bundle to the Item
 * Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../the-key)
-* Optionally use the New button to add a new [Indicator Item Extension](../item-extension) to an existing Item
+* Optionally use the *New* button to add a new [Indicator Item Extension](../item-extension) to an existing Item
 * Watch the 🎥 [Setup Video](https://www.youtube.com/watch?v=f76BGw0H2kg){:target="_blank"} for more details on how to setup Salesforce Indicators.
 
