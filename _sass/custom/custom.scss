@@ -56,8 +56,12 @@ a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
 	transform: translateY(0.25em);
 }
 
-.btn a {
-  background-image:none;
+.btn-green a::after {
+	display: inline-block;
+	background-image: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .site-header {
