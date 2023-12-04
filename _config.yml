@@ -109,7 +109,7 @@ callouts:
     color: blue 
   tip-title:
     title: Tip
-    color: gren
+    color: green
   new-title:
     title: New
     color: purple
@@ -118,7 +118,7 @@ callouts:
   info:
     color: blue 
   tip:
-    color: gren
+    color: green
   new:
     color: purple
   highlight:
