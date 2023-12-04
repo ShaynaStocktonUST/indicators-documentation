@@ -56,6 +56,10 @@ a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
 	transform: translateY(0.25em);
 }
 
+.btn a {
+  background-image:none;
+}
+
 .site-header {
   min-height: 200px;
   max-height: 260px;
