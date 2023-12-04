@@ -52,7 +52,8 @@ See [Install Salesforce Indicators](../install-salesforce-indicators/) if you ha
 
 ## 8. Using Indicator Item Extensions
 
-{: .tip-title}
+{: .tip}
+> Tip
 >
 > Start using the Salesforce Indicator Bundles, Items and Item Bundles first before moving on to Indicator Item Extensions.
 > Once you are comfortable with the basic Salesforce Indicator set up process, use the *New* button to add a new [Indicator Item Extension](item-extension) to an existing Item.
