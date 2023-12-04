@@ -7,7 +7,7 @@ has_children: false
 
 Thank you for choosing Salesforce Indicators to enhance your Lightning Pages! This documentation will help you get started using the app.
 
-[Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest){: .btn .btn-green .noicon}{:target="_blank"}
+[Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest){: .noicon .btn .btn-green }{:target="_blank"}
 
 * Install the latest version of the managed package from the [Install Page](https://install.salesforce.org/products/indicators/latest){:target="_blank"}. 
 * See the [Release Notes](../release-notes) for the updates included in the latest version.
