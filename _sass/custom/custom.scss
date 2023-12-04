@@ -58,7 +58,7 @@ a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
 
 .btn-green a::after {
 	display: inline-block;
-	background-image: none; !important;
+	background-image: none !important;
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -85,7 +85,7 @@ a[href*="//"]:not([href*="sfdo-community-sprints.github.io"])::after {
 }
 
 .aux-nav a::after {
-	position: relative; !important;
+	position: relative !important;
   content: '';
 	display: inline-block;
 	width: 0.9em;
