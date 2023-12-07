@@ -9,7 +9,10 @@ nav_exclude: true
 
 ## Using the Indicator List Component
 
-NOTE: This documentation is here for those that still use the Indicator List Component. Whist it has served us well it was very hard to configure well, so it has now been deprecated. 
+{: warning-title}
+>Deprecated Component
+>
+>This documentation is here for those that still use the Indicator List Component. Whist it has served us well it was very hard to configure well, so it has now been deprecated. 
 
 * Add the **indicatorList** Component to the Lightning Record Page. 
 * Enter the Settings for the Lightning Card:
