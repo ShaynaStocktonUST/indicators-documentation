@@ -27,7 +27,7 @@ As with all managed packages, the installed package is visible in *Setup* > *Ins
 ## After install
 
 * Assign the Permission Set *Indicators Setup Access* to your Salesforce Administrator user.
-* See 📘 [Permissions Explained](../Permissions-Explained) for Salesforce permissions needed, and more technical information.
+* See 📘 [Permissions Explained](../permissions-explained) for Salesforce permissions needed, and more technical information.
 
 ![Assign Permission Set](../images/setup/AssignPermissionSet.png){: width="590"}
 

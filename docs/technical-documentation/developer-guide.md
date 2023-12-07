@@ -6,8 +6,6 @@ has_children: false
 
 ---
 
-Created by [Tim Schug](https://github.com/tschug)
-
 ## Data Model 
 The configurations for the Indicators App are all stored in custom metadata types (CMDT) rather than inside sObjects since the number of records will be relatively small.  Also, this is because the values are best suited to be deployed from a sandbox to production after building and testing (though we anticipate no issues building in production directly).  Similarly, the ability to have this copied from production when creating/refreshing a sandbox improves the user experience.
 
@@ -91,5 +89,5 @@ The image/avatar depicting a field value used by the Indicator Bundle and the In
 ![Salesforce Indicators Configuration Manager LWC Layout](../images/setup/ConfigurationManagerLWCGuide.png){: width="590"}
 ![Salesforce Indicators Indciator Bundle LWC Layout](../images/setup/IndicatorBundleLWCGuide.png){: width="590"}
 
-
+Created by [Tim Schug](https://github.com/tschug)
 

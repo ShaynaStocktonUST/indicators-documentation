@@ -1,6 +1,6 @@
 ---
 title: Open Source Commons Sprints
-parent: Getting Involved
+parent: Getting Involved with Salesforce Indicators
 nav_order: 1
 has_children: true
 ---
