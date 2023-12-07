@@ -1,7 +1,7 @@
 ---
 title: Getting Started to Contribute
 parent: Getting Involved with Salesforce Indicators
-nav_order: 2
+nav_order: 3
 has_children: false
 ---
 
@@ -16,8 +16,7 @@ If you are coming to a sprint, we don't want you to get discouraged because one 
 
 1. Get to know Salesforce Indicators by reading this Documentation Site. (check the [YouTube video](https://www.youtube.com/watch?v=kHNh1v1CdA4) also).
 2. Get an org set up. Preferably NPSP
-    1. Install NPSP in a Trailhead Playground
-        1. [Trailhead: Install Nonprofit Success Pack (NPSP) into a Trailhead Playground](https://trailhead.salesforce.com/content/learn/projects/install-nonprofit-success-pack-into-a-trailhead-playground)
+    1. Install Nonprofit Success Pack (NPSP) into a Trailhead Playground](https://trailhead.salesforce.com/content/learn/projects/install-nonprofit-success-pack-into-a-trailhead-playground)
     2. Or create a Scratch Org (with Sample Data) and install NPSP using [metadeploy](https://install.salesforce.org/products/npsp/latest/install)
 3.  [Install Salesforce Indicators](../install-salesforce-indicators) in your Trailhead Playground or Scratch Org
   1. Install the Sample Indicators (link TBA) in your org.
@@ -31,7 +30,7 @@ If you are coming to a sprint, we don't want you to get discouraged because one 
     1. Think about any of these steps you have done (especially installing, and setting up Indicators) and make notes as to how you can improve the help docs, and go ahead and modify the documentation.
     2. For tips for others on how to get any of the rest of this set up, then please edit this page
 
-{: .info-title}
+{: .info}
 >
 > TBA: More details on how to modify the documentation pages via a Pull Request.
 
