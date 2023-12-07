@@ -7,5 +7,5 @@ has_children: true
 
 See [How to Volunteer](../how-to-volunteer) to get involved.
 
-See the Sprints
+These are the Sprints we have been involved in:
 

@@ -1,6 +1,7 @@
 ---
 title: 2023 Sprint 2 - March 29 and 30
-parent: List of Sprints
+parent: Open Source Commons Sprints
+grand_parent: Getting Involved with Salesforce Indicators
 nav_order: 2
 has_children: false
 ---

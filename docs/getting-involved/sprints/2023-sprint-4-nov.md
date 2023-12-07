@@ -1,6 +1,7 @@
 ---
 title: 2023 Sprint 4 - November 15 and 16
-parent: List of Sprints
+parent: Open Source Commons Sprints
+grand_parent: Getting Involved with Salesforce Indicators
 nav_order: 4
 has_children: false
 ---
