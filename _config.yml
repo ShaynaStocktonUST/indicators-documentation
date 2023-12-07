@@ -102,24 +102,24 @@ aux_links_new_tab: true
 
 callouts:
   warning-title:
-    title: Warning
     color: red
   info-title:
-    title: Info
     color: blue 
   tip-title:
-    title: Tip
     color: green
   new-title:
-    title: New
     color: purple
   warning:
+    title: Warning
     color: red
   info:
+    title: Info
     color: blue 
   tip:
+    title: Tip
     color: green
   new:
+    title: New!
     color: purple
   highlight:
     color: yellow
