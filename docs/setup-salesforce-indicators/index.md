@@ -22,7 +22,11 @@ See [Install Salesforce Indicators](../install-salesforce-indicators/) if you ha
 ![Salesforce Indicators Data Model](../images/setup/DataStructure.png){: width="590"}
 
 * Consider your field design. Design field to be multi-use where ever possible.
-  * 🛠 *this needs to be built out further describing the challenge of using boolean fields with other data, giving the example of memberships (is active) and months to end date*
+
+{: .info-title}
+>In Progress
+>
+>This needs to be built out further describing the challenge of using boolean fields with other data, giving the example of memberships (is active) and months to end date
 
 * Are you using [Declarative Lookup Rollup Summaries (DLRS)?](https://github.com/SFDO-Community/Salesforce-Indicators/wiki/Additional-Complementary-Apps-and-Components-to-Enhance-Your-Org#declarative-lookup-rollup-summary-salesforce-open-source-commons) Consider whether DLRS could help you surface the data for the indicators you need.
 
