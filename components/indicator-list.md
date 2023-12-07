@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Using the Indicator List Component
 
-{: warning-title}
+{: .warning-title}
 >Deprecated Component
 >
 >This documentation is here for those that still use the Indicator List Component. Whist it has served us well it was very hard to configure well, so it has now been deprecated. 
