@@ -1,5 +1,5 @@
 ---
-title: 2023 Sprint No. 3 October 30 and 31
+title: 2023 Sprint 3 - October 30 and 31
 parent: List of Sprints
 nav_order: 3
 has_children: false

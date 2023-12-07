@@ -1,5 +1,5 @@
 ---
-title: 2023 Sprint No. 4 November 15 and 16
+title: 2023 Sprint 4 - November 15 and 16
 parent: List of Sprints
 nav_order: 4
 has_children: false

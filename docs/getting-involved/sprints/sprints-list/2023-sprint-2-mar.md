@@ -1,5 +1,5 @@
 ---
-title: 2023 Sprint No. 2 March 29 and 30
+title: 2023 Sprint 2 - March 29 and 30
 parent: List of Sprints
 nav_order: 2
 has_children: false
