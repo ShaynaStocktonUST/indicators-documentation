@@ -1,5 +1,6 @@
 ---
 title: 2022 Sprint #1 November 2 and 3
+parent: Open Source Commons Sprints
 nav_order: 1
 has_children: false
 ---

@@ -1,7 +1,9 @@
 ---
 title: Salesforce Indicators Developer Guide
+parent: Salesforce Indicators Technical Documentation
 nav_order: 1
 has_children: false
+
 ---
 
 Created by [Tim Schug](https://github.com/tschug)
