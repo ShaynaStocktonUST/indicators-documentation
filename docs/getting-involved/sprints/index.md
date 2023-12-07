@@ -5,5 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
+See [How to Volunteer](../how-to-volunteer) to get involved.
+
 Below are the Sprints we have been involved in:
-See [How to Volunteer](../how-to-voulunteer) to get involved.
+
