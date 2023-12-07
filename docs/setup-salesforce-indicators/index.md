@@ -12,7 +12,7 @@ See [Install Salesforce Indicators](../install-salesforce-indicators/) if you ha
 >Salesforce Indicators at the moment is one Component - the Indicator Bundle. The Indicator Bundle requires setting up via Salesforce Custom Metadata Records. 
 >We are currently working on a new UI which will make setup of the Indicator Bundle much easier, but it is still a while away. 
 >We also have two new components planned - the Grid and the Panel. 
->See [Getting Involved with Salesforce Indicators](../getting-involved/) for more infomation.
+>See [Getting Involved with Salesforce Indicators](../getting-involved/) if you would like to help us build out these exiting new features.
 
 ## 1. Design your Salesforce Indicators model
 
