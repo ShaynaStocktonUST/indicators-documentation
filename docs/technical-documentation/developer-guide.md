@@ -86,8 +86,8 @@ The modal used to display the Key component associated with the Indicator Bundle
 ### Indicator Bundle Item
 The image/avatar depicting a field value used by the Indicator Bundle and the Indicator Key Row components. 
 
-![Salesforce Indicators Configuration Manager LWC Layout](../images/setup/ConfigurationManagerLWCGuide.png){: width="590"}
-![Salesforce Indicators Indciator Bundle LWC Layout](../images/setup/IndicatorBundleLWCGuide.png){: width="590"}
+![Salesforce Indicators Configuration Manager LWC Layout](../images/technical/ConfigurationManagerLWCGuide.png){: width="590"}
+![Salesforce Indicators Indciator Bundle LWC Layout](../images/technical/IndicatorBundleLWCGuide.png){: width="590"}
 
 Created by [Tim Schug](https://github.com/tschug)
 

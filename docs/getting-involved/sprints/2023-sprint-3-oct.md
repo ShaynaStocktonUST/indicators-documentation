@@ -1,7 +1,7 @@
 ---
 title: 2023 Sprint #3 October 30 and 31
 parent: Open Source Commons Sprints
-nav_order: 1
+nav_order: 3
 has_children: false
 ---
 
