@@ -1,6 +1,6 @@
 ---
 title: 2023 Sprint No. 4 November 15 and 16
-parent: Open Source Commons Sprints
+parent: List of Sprints
 nav_order: 4
 has_children: false
 ---
