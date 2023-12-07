@@ -30,9 +30,10 @@ If you are coming to a sprint, we don't want you to get discouraged because one 
     1. Think about any of these steps you have done (especially installing, and setting up Indicators) and make notes as to how you can improve the help docs, and go ahead and modify the documentation.
     2. For tips for others on how to get any of the rest of this set up, then please edit this page
 
-{: .info}
->
-> TBA: More details on how to modify the documentation pages via a Pull Request.
+{: .info-title}
+> Documentation Update
+> 
+> More details on how to modify the documentation pages via a Pull Request.
 
 
 ## Development Contributions
