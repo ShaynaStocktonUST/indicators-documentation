@@ -1,4 +1,10 @@
-# Jobs to be Done
+---
+title: 2023 Sprint #2 March 29 and 30
+nav_order: 2
+has_children: false
+---
+
+## Jobs to be Done
 1. Continue to refine and expand the Wiki/Documentation
 
     * Description:  Help ensure understanding and adoption through documentation.
@@ -95,7 +101,7 @@
         * LWC development knowledge
         * Test class/method best practices
 
-# Project Team & Accomplishments
+## Project Team & Accomplishments
 
 Full Name            | Team Role     | Github Username                                    | Contribution
 ------------         | ------------- | -------------                                      |-------------   
@@ -115,7 +121,8 @@ Jennifer Carneiro | Contributor | [jenncarneiro](https://github.com/jenncarneiro
 Eileen K | Contributor | [programmer2coder](https://github.com/programmer2coder) | Recipes
   
 
-# Future Contributions (AKA what were you unable to finish at the Sprint)
+## Future Contributions (AKA what were you unable to finish at the Sprint)
+
 * A few minor tweaks
 * Getting the app into Metecho (next steps)
 * Starting on 2 new components

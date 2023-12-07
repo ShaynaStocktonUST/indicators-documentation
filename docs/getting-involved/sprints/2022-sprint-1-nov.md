@@ -1,5 +1,12 @@
-# Project Team & Accomplishments
-## Documentation
+---
+title: 2022 Sprint #1 November 2 and 3
+nav_order: 1
+has_children: false
+---
+
+
+## Project Team & Accomplishments
+### Documentation
 * Got the Documentation moved into this Wiki 
 * Set up Templates for Recipes and Comparison reviews
   * Created two recipes
@@ -15,7 +22,7 @@ Tim Schug   | Code Lead | [tschug](https://github.com/tschug)                   
 Eileen K | Documentation | [programmer2coder](https://github.com/programmer2coder) | Documentation and Recipes
 Sagal Mursal | Documentation | [smursal](https://github.com/smursal) | 
 
-# Future Contributions (AKA what were you unable to finish at the Sprint)
+## Future Contributions (AKA what were you unable to finish at the Sprint)
 * Release the new features
 * Testing 
 * Packaging

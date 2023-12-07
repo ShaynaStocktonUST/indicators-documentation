@@ -1,5 +1,13 @@
-# Project Team & Accomplishments
-## Report Back Day 1
+---
+title: 2023 Sprint #3 October 30 and 31
+nav_order: 1
+has_children: false
+---
+
+## Project Team & Accomplishments
+
+### Report Back Day 1
+
 * Foundational Discussions
 * LWC Development and Cook Book Building
 * Familiarized ourselves with the App
@@ -10,7 +18,8 @@
 * Started preparation for the Wiki pages to move to GitHub Docs
 * Sketched out feature enhancement for text matching condition
 
-## Report Back Day 2
+### Report Back Day 2
+
 * Rearranged the "bookshelf" of the Wiki
 * Setup a CMDT deploy utility
 * Constructed an Indicator Builder LWC
@@ -29,12 +38,14 @@ David Fromstein | Developer | [fromsteinsfdc](https://github.com/fromsteinsfdc) 
 Bobby Wright | Developer | [bobbysfdev](https://github.com/bobbysfdev) | Technical
 Andy McMullan | Developer |  | Technical
 
-# Future Contributions (AKA what were you unable to finish at the Sprint)
+## Future Contributions (AKA what were you unable to finish at the Sprint)
+
 * Additional Recipes
 * Moving of Wiki to Github Documentation
 * Further tidy-up of Documentation
 
-# Next Step Notes
+## Next Step Notes
+
 * QA the cosmetic item updates and "operator" functionality for text matching.
 * Review the outcomes from the [metadata-deploy](https://github.com/SFDO-Community/Salesforce-Indicators/tree/feature/metadata-deploy) and [indicator-builder](https://github.com/SFDO-Community/Salesforce-Indicators/tree/feature/indicator-builder) branches 
   * Document/comment on approach

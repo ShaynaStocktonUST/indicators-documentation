@@ -1,13 +1,19 @@
+---
+title: Salesforce Indicators Developer Guide
+nav_order: 1
+has_children: false
+---
+
 Created by [Tim Schug](https://github.com/tschug)
 
 ## Data Model 
 The configurations for the Indicators App are all stored in custom metadata types (CMDT) rather than inside sObjects since the number of records will be relatively small.  Also, this is because the values are best suited to be deployed from a sandbox to production after building and testing (though we anticipate no issues building in production directly).  Similarly, the ability to have this copied from production when creating/refreshing a sandbox improves the user experience.
 
-A specific image/icon (Indicator) is configured as a `Indicator_Item__mdt` (**Indicator Item / Indicator / Item**).  It can be further extended to display a different image/icon based conditional logic stored in a child of the Indicator Item as a `Indicator_Item_Extension__mdt` (**Indicator Item Extension**).
+A specific image/icon (Indicator) is configured as a `Indicator_Item__mdt` (*Indicator Item / Indicator / Item*).  It can be further extended to display a different image/icon based conditional logic stored in a child of the Indicator Item as a `Indicator_Item_Extension__mdt` (*Indicator Item Extension*).
 
-To utilize an Indicator, it must be associated with an `Indicator_Bundle__mdt` (**Indicator Bundle / Bundle**) which is a set of Indicators to be displayed by the LWC.  To connect an Indicator to a Bundle, a record is stored in the junction object between Bundle and Item known as a ``Indicator_Bundle_Item__mdt`` (**Indicator Bundle Item / Bundle Item**).
+To utilize an Indicator, it must be associated with an `Indicator_Bundle__mdt` (*Indicator Bundle / Bundle*) which is a set of Indicators to be displayed by the LWC.  To connect an Indicator to a Bundle, a record is stored in the junction object between Bundle and Item known as a ``Indicator_Bundle_Item__mdt`` (*Indicator Bundle Item / Bundle Item*).
 
-![image](https://github.com/SFDO-Community/Salesforce-Indicators/assets/2966583/638907ca-fd23-43e7-9001-aa3e96ffbddc)
+![Salesforce Indicators Data Model](../images/setup/DataStructure.png){: width="590"}
 
 ## Apex Summary
 ### Build
@@ -80,8 +86,8 @@ The modal used to display the Key component associated with the Indicator Bundle
 ### Indicator Bundle Item
 The image/avatar depicting a field value used by the Indicator Bundle and the Indicator Key Row components. 
 
-![image](https://github.com/SFDO-Community/Salesforce-Indicators/assets/2966583/8e37df18-5951-47c4-8c91-66bddb064413)
- 
-![image](https://github.com/SFDO-Community/Salesforce-Indicators/assets/2966583/368e956f-b92c-465d-be10-f187525688a6)
+![Salesforce Indicators Configuration Manager LWC Layout](../images/setup/ConfigurationManagerLWCGuide.png){: width="590"}
+![Salesforce Indicators Indciator Bundle LWC Layout](../images/setup/IndicatorBundleLWCGuide.png){: width="590"}
+
 
 
