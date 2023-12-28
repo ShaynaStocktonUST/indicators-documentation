@@ -4,8 +4,13 @@ grand-parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
 title: Component Name
 nav_order: 10
+nav_exclude: true
+toc_exclude: true
 has_children: false
 ---
+
+
+## Component Name
 
 * **Link:** Appexchange or blog post 
 * **Cost:** Free
@@ -24,7 +29,7 @@ What is it trying to achieve
 **Weaknesses:**
 - Doesn't look like Salesforce
 
-### Setup Notes
+## Setup Notes
 
 **Link to Documentation:**
 
@@ -36,8 +41,8 @@ What is it trying to achieve
 
 Add Images and other notes about how you tested. Bullet points only
 
-### Use
+## Use
 
 Any notes about ongoing use of the Component
 
-Reviewer Name: 
+**Reviewer Name:**  

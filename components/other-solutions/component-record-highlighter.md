@@ -2,12 +2,16 @@
 layout: default
 grand-parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
-title: Highlighter: Record Highlighter
+title: Highlighter - Record Highlighter
 nav_order: 3
+nav_exclude: true
 has_children: false
 ---
 
-* **Link:** https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000QslCeEAJ&tab=d
+
+## Highlighter: Record Highlighter
+
+* **Link:** [[https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000QslCeEAJ&tab=d]]
 * **Cost:** $7.99 USD/company/month
 * **Type:** Lightning Component (Aura / LWC) / App
 * **Level of Effort:** Easy
@@ -57,7 +61,7 @@ The app allows to highlight certain records based on dynamic criteria that you d
 ## Examples Done for Testing and Evaluation
 I've set up rules for different input values in fields Rating and Annual Revenue in Leads and it all works great. I figured out that the most of the app you get on view list while using rules for only one field or rules that do not have a conflict with each other.
 
-### Use
+## Use
 For list view highlights use it's really OK.
 
-Reviewer: Maria Śliska
+**Reviewer:** Maria Śliska

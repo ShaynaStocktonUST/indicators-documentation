@@ -4,12 +4,13 @@ grand_parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
 title: Highlighter - Picklist Image Coding Component
 nav_order: 2
+nav_exclude: true
 has_children: false
 ---
 
 ## Highlighter: Picklist Image Coding Component
 
-* **Link:** [https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000FKAzgUAH&tab=d]
+* **Link:** [[https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000FKAzgUAH&tab=d]]
 * **Cost:** $500 USD/company/year
 * **Type:** Lightning Component (Aura / LWC) / App
 * **Level of Effort:** High

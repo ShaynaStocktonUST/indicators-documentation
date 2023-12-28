@@ -2,12 +2,15 @@
 layout: default
 grand-parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
-title: Highlighter: Dynamically highlight, rename, hide fields, conditional formatting
+title: Highlighter - Dynamically highlight, rename, hide fields, conditional formatting
 nav_order: 1
+nav_exclude: true
 has_children: false
 ---
 
-* **Link:** https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000q4OxEAI&tab=e
+## Highlighter: Dynamically highlight, rename, hide fields, conditional formatting 
+
+* **Link:** [[https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000q4OxEAI&tab=e]]
 * **Cost:** Free
 * **Type:** Lightning Component (Aura / LWC) / App
 * **Level of Effort:** Easy
@@ -70,11 +73,11 @@ or
 
 All works great.
 
-### Use
+## Use
 
 In my opinion, apart from the fact that it can slightly slower your page, it's a great app and can be really useful in all kinds of orgs.  
 Though, I would rather use Indicators as they are not as "shouty". They do show what is important / missing and do not impact the layout as much.
 Specially that the end users will probably not be able to set up their own functions to use highlighter and will be left with functions set up by admin.
 I think Indicators are much more user friendly from the "viewer/user" perspective.
 
-Reviewer: Maria Śliska
+**Reviewer:** Maria Śliska
