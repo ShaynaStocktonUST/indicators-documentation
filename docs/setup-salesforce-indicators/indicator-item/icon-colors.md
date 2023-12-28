@@ -1,3 +1,11 @@
+---
+layout: default
+title: Icon Colors
+parent: The Indicator Item
+nav_order: 2
+has_children: false
+---
+
 ## Where do we find the Icon Colors?
 
 * Use Color Picker tool like [Eye Dropper](https://eyedropper.org/) on [SLDS Icons](https://www.lightningdesignsystem.com/icons/) page to pick the color of the icon you want. 
@@ -6,7 +14,9 @@
 
 ## Getting Similar Colors
 
-Unless you are an artist or a color theorist, don't attempt this yourself! 
+{: .tip}
+>
+> Unless you are an artist or a color theorist, don't attempt this yourself, get someone else to look over it too! 
 
 * Use a tool like [Adobe Color](https://color.adobe.com/create/color-wheel) and find a shade of the color or another color that works well with your preferred icon color. 
 * Paste the hex colorcode into the Chrome search bar and the Chrome color picker will be displayed.
@@ -16,6 +26,4 @@ Unless you are an artist or a color theorist, don't attempt this yourself!
 
 ## Accessibility
 As we know by the changes to the Salesforce colors in Summer '23 (that orange is terrible!), accessibility for different vision levels is really important, and colors are one of the big culprits of making things less accessible. So use the excellent website [whocanuse.com](https://www.whocanuse.com/) to find out if your favorite color is going to be OK for all your users. Set the font to at least 30px and bold to simulate what an icon would look like. Another option is to take a screen shot of your page, stick it in a public google doc, and run the whole page through [https://www.toptal.com/designers/colorfilter](https://www.toptal.com/designers/colorfilter).
-
-_and this extra sentence just because I had to have the word colour and favourite spelled correctly somewhere on this page :)_
 
