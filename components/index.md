@@ -20,3 +20,6 @@ See [Getting Involved with Salesforce Indicators](../docs/getting-involved/) if 
 ## Original Component
 The original Component [Indicator List](indicator-list) has been deprecated (but it still works if it is in your org).
 
+## Other Components and Apps
+One of the tenents of the Open Source Commons is that we need to also show you what else is out there, and what other apps could do similar things to our app. We invite you to submit a review for any app that helps you enhance your Lihgtning Pages. See the Table Of Contents below for the apps we have reviewed. 
+
