@@ -92,10 +92,6 @@ OR, alternatively:
 
 * SLDS Action Icons eg `action:check` do not render in the Indicator Component correctly. Action Icons are not designed for usage in Salesforce Avatar which is what the Indicators are based on. 
 
-## Reference
-
-* See 📘 [Indicator Item Configuration Matrix](item-configuration-matrix) for how each field contributes to the end result. This is for advanced troubleshooting. Try using an example from a Recipe for simple settings. 
-
 ## Next Steps
 * Add Optional [Extensions](../item-extension)
 * Add the Indicator to a Bundle using [Indicator Bundle Items](../indicator-bundle-item)

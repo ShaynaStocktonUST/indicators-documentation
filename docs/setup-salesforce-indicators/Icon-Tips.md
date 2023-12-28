@@ -1,3 +1,11 @@
+---
+layout: default
+title: Icon Tips
+parent: The Indicator Item
+nav_order: 1
+has_children: false
+---
+
 Standard Icons are from the [SLDS Icons](https://www.lightningdesignsystem.com/icons) gallery and they are entered using the icon name. SLDS Icons can show the Icon with the image, or show some static text on top of the Icon. 
 
 Just about any other icon can be used by using the Image Option
