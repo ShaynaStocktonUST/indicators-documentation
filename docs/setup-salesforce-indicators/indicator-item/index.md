@@ -74,12 +74,13 @@ OR, alternatively:
 
 ## More Information
 * See [Icon Tips](icon-tips) for more Icon ideas and tips.
-* See [Fields and Formulas Tips](fields-tips) for tips on creating new Fields to use in your Indicators.
 * See [Icon Colors](icon-colors) for tips on creating colorful icons.
+* See [Fields and Formulas Tips](fields-tips) for tips on creating new Fields to use in your Indicators.
 
 ## Rules
+
 {: .info-title}
->Documentation Notes
+>In Progress
 >
 >This section needs to be expanded upon.
 

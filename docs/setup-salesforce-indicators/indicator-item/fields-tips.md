@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Icon Tips
+title: Field and Formula Tips
 parent: The Indicator Item
 grand_parent: Set Up Salesforce Indicators
 nav_order: 3
