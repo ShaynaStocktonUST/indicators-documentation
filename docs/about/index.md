@@ -1,14 +1,14 @@
 ---
 title: About Salesforce Indicators
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 
-## **Who created Salesforce Indicators?**
+## Who created Salesforce Indicators?
 
 Collaborating, creating, and sharing solutions for the purpose of helping others use technology comes as second nature to the Salesforce.org community. What makes Salesforce Indicators particularly special is that it was built by the community, for the community, through [The Commons](https://www.salesforce.org/resources/commons/) program. 
 
-[Salesforce MVP](https://trailhead.salesforce.com/mvp/) (Hall of Fame) Jodie Miners, Director of The Detail Department, an independent Salesforce consultant from Melbourne Australia, had the initial idea based on the needs of her clients and an app in Classic built by two MVPs at the time. During the first covid lockdowns, Jodie decided to learn to code Lightning Web Components and thought this would be an easy project to start with. After much help from many other members of the community an app was published on Github, and installed in production orgs. On github there was a few outstanding issues with a direction to help make the app better. In mid 2022, Tim Schug contacted Jodie via Ohana Slack and said “hey I’ve added the extra features you wanted”. Oh wow, it was a complete rebuild, using Custom Metadata Types, and it was fabulous! The next logical step was to join the Commons program to build upon the community involvement for the app, and get Salesforce Indicators released, and build new features. [Learn more](https://github.com/SFDO-Community/Salesforce-Indicators/wiki/Contributions-and-Acknowledgments) about the history and how Salesforce Indicators was created.
+[Salesforce MVP](https://trailhead.salesforce.com/mvp/) (Hall of Fame) Jodie Miners, Director of The Detail Department, an independent Salesforce consultant from Melbourne Australia, had the initial idea based on the needs of her clients and an app in Classic built by two MVPs at the time. During the first covid lockdowns, Jodie decided to learn to code Lightning Web Components and thought this would be an easy project to start with. After much help from many other members of the community an app was published on Github, and installed in production orgs. On github there was a few outstanding issues with a direction to help make the app better. In mid 2022, **Tim Schug** contacted Jodie via Ohana Slack and said “hey I’ve added the extra features you wanted”. Oh wow, it was a complete rebuild, using Custom Metadata Types, and it was fabulous! The next logical step was to join the Commons program to build upon the community involvement for the app, and get Salesforce Indicators released, and build new features. [Learn more](https://github.com/SFDO-Community/Salesforce-Indicators/wiki/Contributions-and-Acknowledgments) about the history and how Salesforce Indicators was created.
 
 ## What is the Salesforce.org Commons Program?
 
@@ -32,7 +32,7 @@ To volunteer, you can reach out to the team at our [Trailblazer Community group]
 
 Please login to the Trailblazer Community and post your question to the  [Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000HEDASA4?tab=discussion&sort=LAST_MODIFIED_DATE_DESC). Community volunteer maintainers of this application and Salesforce.org Commons Program team members actively monitor every post. [Existing Issues](https://github.com/SFDO-Community/Salesforce-Indicators/issues) are tracked in GitHub.
 
-## # History of the idea of the Indicators Component
+## History of the Indicators Component
 
 * 2015 - Christian Carter wrote an excellent blog post on [Frostings](https://cdcarter.github.io/admin/2015/11/12/frosting) and [Progress Bars](https://cdcarter.github.io/admin/2016/02/15/progress-bar) or little graphical elements you can use in simple formulas to enhance the visual information displayed on your Salesforce records.
 
@@ -48,39 +48,19 @@ Please login to the Trailblazer Community and post your question to the  [Trailb
 
 * 2020 - Hoping that SLDS Icons would be able to be used in Formulas now, and building upon Matt Lacey's excellent [blog posts on using SVGs in formulas](https://laceysnr.com/formula-controlled-graphics-on-salesforce-1/), a Wiki page on [Image Formulas](https://tddprojects.atlassian.net/wiki/spaces/SF/pages/998703109) was created to delve into this. TLDR: sort of possible, but not really. 
 
-* October 2020 - The Indicators List component is released.
+* October 2020 - The original [Indicators List](../components/indicator-list.md) component is released.
 
-* July 2022 - Tim reaches out to Jodie on Ohana Slack and says "hey, I've built the Custom Metadata Types that you want. Wow! Amazing! Fabulous. And Tim built more than that! However, we were left with a dilemma. It's not Jodie's component, and it's not Tim's component, but we both want it released to the wider community... so maybe, just maybe it could become part of the Open Source Commons. We needed a team though... Tim said he had some contacts. 
+* July 2022 - Tim reaches out to Jodie on Ohana Slack and says "hey, I've built the Custom Metadata Types that you want. Wow! Amazing! Fabulous. And Tim built more than that! However, we were left with a dilemma. It's not Jodie's component, and it's not Tim's component, but we both want it released to the wider community... so maybe, just maybe it could become part of the Open Source Commons. We needed a team though... 
 
 * August 2022 - Jodie reaches out to Cori from the Open Source Commons to get it into a Sprint. Jodie committed to waking up at 3am to join the sprint in real time, and we discussed following the approach of other OSC apps by adding a Cookbook, and some competitor evaluation. 
 
 * November 2022 - the CMDT is in the Repo, and [Sprint No. 1](../../docs/getting-involved/sprints/2022-sprint-1-nov.md) with a team of excellent people working on this idea that is built upon the help of so many already. 
 
-* October 2023 - Release of the first official version of Salesforce Indicators! Wooohooo! 
+* October 2023 - **Release of the first official version of Salesforce Indicators!** Wooohooo! 
 
 Future - More features to come! See [How to Volunteer](../../docs/getting-involved/how-to-volunteer.md).
 
-## Acknowledgements
-The coloured indicators idea came from the [Weathervane App](https://github.com/bigthinks/weathervane) by Christian Carter and Beth Breisnes which was built for Classic and uses Custom Metadata Types. It has a few more features than this Component but it is something we can build upon later. It was a fabulous app but no longer supported as both have moved on to work at Salesforce. The idea for the app came from Caroline Renard.
-
-The Setup section for the original Indicators List component came from Clint Chester's excellent Component, [Helpful Links Component](https://github.com/edgewatercricketclub/helpful-links-component). 
-
-Many members of the Salesforce community helped with writing this Lightning Web Component, including:
-* Matt Lacey
-* René Winkelmeyer
-* Christian Szandor Knapp
-* Clint Chester
-* James Hou
-* Kyle Crouse
-
-And excellent blog posts or Stack Exchange articles from:
-* SFDCFox
-* Salesforce-sas
-* Rahul Gawale
-
-Here is the question on the [Salesforce Stack Exchange](https://salesforce.stackexchange.com/questions/307055/simplest-way-to-display-values-from-field-names-listed-in-design-attributes) to get to the bottom of one of the hardest parts of the Indicators List Component code.
-
-See the [Sprint Pages](../../docs/getting-involved/sprints/index.md) for the current project team and accomplishments. 
+See the [Sprint Pages](../../docs/getting-involved/sprints/index.md) for the current project team and accomplishments.
 
 ## Attribution
-* Icon for the Component inside the Lightning Page made by itim2101 from www.flaticon.com
+* Icon for the Lightning Bundle and Indicator List Component made by itim2101 from www.flaticon.com

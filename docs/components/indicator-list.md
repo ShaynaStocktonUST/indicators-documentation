@@ -34,3 +34,24 @@ nav_exclude: true
 * Test a boolean field to ensure the indicator disappears if False. Test a boolean field with False values to make sure the indicator appears if the boolean is False.
 
   _Hint:_ Use the [configuration worksheet](https://docs.google.com/spreadsheets/d/1e-Qxi0MY9An9Hb9mHPVxFom--HCNK6xNRkWO12xRxg0/edit?usp=sharing) ([Make your own copy](https://docs.google.com/spreadsheets/d/1e-Qxi0MY9An9Hb9mHPVxFom--HCNK6xNRkWO12xRxg0/copy)), It has been created to help you work out the whole component before you set it up on the page.
+
+## Acknowledgements for Indicator Lists Component
+
+The coloured indicators idea came from the [Weathervane App](https://github.com/bigthinks/weathervane) by Christian Carter and Beth Breisnes which was built for Classic and uses Custom Metadata Types. It has a few more features than this Component but it is something we can build upon later. It was a fabulous app but no longer supported as both have moved on to work at Salesforce. The idea for the app came from Caroline Renard.
+
+The Setup section for the original Indicators List component came from Clint Chester's excellent Component, [Helpful Links Component](https://github.com/edgewatercricketclub/helpful-links-component). 
+
+Many members of the Salesforce community helped with writing this Lightning Web Component, including:
+* Matt Lacey
+* René Winkelmeyer
+* Christian Szandor Knapp
+* Clint Chester
+* James Hou
+* Kyle Crouse
+
+And excellent blog posts or Stack Exchange articles from:
+* SFDCFox
+* Salesforce-sas
+* Rahul Gawale
+
+Here is the question on the [Salesforce Stack Exchange](https://salesforce.stackexchange.com/questions/307055/simplest-way-to-display-values-from-field-names-listed-in-design-attributes) to get to the bottom of one of the hardest parts of the Indicators List Component code.
