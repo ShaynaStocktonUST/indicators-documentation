@@ -9,7 +9,7 @@ has_children: false
 * [Is Salesforce Indicators affordable?](#is-salesforce-indicators-affordable)
 * [Is Salesforce Indicators secure?](#is-salesforce-indicators-secure)
 * [How is the Component Built?](#how-is-the-salesforce-indicators-built)
-* [What Permissions do I need to create Indicators?](#what-permissions-do-i-need-to-create-Indicators)
+* [What Permissions do I need to create Indicators?](#what-permissions-do-i-need-to-create-indicators)
 * [Who created Salesforce Indicators?](#who-created-salesforce-indicators)
 * [What is the Salesforce.org Commons Program?](#what-is-the-salesforceorg-commons-program)
 * [How can I suggest new features?](#how-can-i-suggest-new-features)
