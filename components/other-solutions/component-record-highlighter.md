@@ -1,6 +1,6 @@
 ---
 layout: default
-grand-parent: Components
+grand_parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
 title: Highlighter - Record Highlighter
 nav_order: 3
@@ -11,7 +11,7 @@ has_children: false
 
 ## Highlighter: Record Highlighter
 
-* **Link:** [[https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000QslCeEAJ&tab=d]]
+* **Link:** [Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000QslCeEAJ&tab=d)
 * **Cost:** $7.99 USD/company/month
 * **Type:** Lightning Component (Aura / LWC) / App
 * **Level of Effort:** Easy

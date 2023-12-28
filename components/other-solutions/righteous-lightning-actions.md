@@ -1,6 +1,6 @@
 ---
 layout: default
-grand-parent: Components
+grand_parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
 title: Righteous Lightning Actions
 nav_order: 5
@@ -10,7 +10,7 @@ has_children: false
 
 ## Righteous Lightning Actions
 
-* **Link:** [[https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FMpajUAD&tab=d]]
+* **Link:** [Appexchange](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FMpajUAD&tab=d)
 * **Cost:** Free
 * **Type:** Lightning App with Aura Components
 * **Level of Effort:** High

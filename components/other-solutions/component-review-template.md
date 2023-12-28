@@ -1,6 +1,6 @@
 ---
 layout: default
-grand-parent: Components
+grand_parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
 title: Component Name
 nav_order: 10
@@ -12,7 +12,7 @@ has_children: false
 
 ## Component Name
 
-* **Link:** Appexchange or blog post 
+* **Link:** [Appexchange](https://appexchange.com) or blog post 
 * **Cost:** Free
 * **Type:** Lightning Component (Aura / LWC) / App
 * **Level of Effort:**
