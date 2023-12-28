@@ -3,7 +3,7 @@ layout: default
 title: The Indicator Item
 parent: Set Up Salesforce Indicators
 nav_order: 2
-has_children: false
+has_children: true
 ---
 
 See [Indicator Bundle](../indicator-bundle) to set up the **Indicator Bundle** before setting up **Indicator Items**.
@@ -58,23 +58,30 @@ OR, alternatively:
 |Inverse Image||The URL to the image of the Indicator when being used instead of Field, Text, or Icon for false or blank values
 |Zero Value Handling||How to treat Zeros (as blank or number)|Use in conjunction with Show when False or Blank
 
-**💡Setup Tips**
+{: .tip-title}
+>Setup Tips
+>
+>* See the Examples and Recipes in this documentation for ideas on how to use these settings
+>* Zero Value Handling with the setting of `Treat Zeros as Blanks` works great for DLRS or NPSP Rollup fields where the field value will always be 0 or more. eg Count of Open Opportunities for an Account used in an Indicator to show that the Account has Open Opportunities. 
+>* When using [Extensions](../item-extension) the Configuration section can be left blank
 
-* See the Examples and Recipes in this documentation for ideas on how to use these settings
-* Zero Value Handling with the setting of `Treat Zeros as Blanks` works great for DLRS or NPSP Rollup fields where the field value will always be 0 or more. eg Count of Open Opportunities for an Account used in an Indicator to show that the Account has Open Opportunities. 
-* When using [Extensions](../item-extension) the Configuration section can be left blank
+{: .tip-title}
+>Design Tips
+>
+>* Don't use Icons that are in use in your Salesforce org elsewhere. Eg if you have Field Service installed, then don't use the `standard:service_crew` or `standard:service_crew_member` on Contact, as that will be confusing.
+>* Don't be too literal - just pick an icon that looks good, or use a few characters instead of the Icon. Your users will get used to which icons mean what, and they have the hover text to help them know what the icon means.
+>* Don't get too colorful - you can really make a mess. But use specific brand icons or colors for different brands in your company for example.
 
-**💡Design Tips**
-
-* Don't use Icons that are in use in your Salesforce org elsewhere. Eg if you have Field Service installed, then don't use the `standard:service_crew` or `standard:service_crew_member` on Contact, as that will be confusing.
-* Don't be too literal - just pick an icon that looks good, or use a few characters instead of the Icon. Your users will get used to which icons mean what, and they have the hover text to help them know what the icon means.
-* Don't get too colorful - you can really make a mess. But use specific brand icons or colors for different brands in your company for example.
+## More Information
 * See [Icon Tips](icon-tips) for more Icon ideas and tips.
 * See [Fields and Formulas Tips](fields-tips) for tips on creating new Fields to use in your Indicators.
 * See [Icon Colors](icon-colors) for tips on creating colorful icons.
 
 ## Rules
- 🛠 _This section needs to be expanded upon._
+{: .info-title}
+>Documentation Notes
+>
+>This section needs to be expanded upon.
 
 * The indicators work with Boolean or Text fields. 
   * Date Fields can be used if you enter *Static Text* as the value that is shown does not make much sense. 

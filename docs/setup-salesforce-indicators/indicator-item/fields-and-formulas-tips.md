@@ -1,3 +1,11 @@
+---
+layout: default
+title: Icon Tips
+parent: The Indicator Item
+nav_order: 3
+has_children: false
+---
+
 ## Tips for Fields
 
 * Create a new Boolean Formula Field - eg Is Active (Is_Active__c)
