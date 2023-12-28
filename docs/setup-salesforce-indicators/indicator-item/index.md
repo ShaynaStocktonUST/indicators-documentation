@@ -3,7 +3,7 @@ layout: default
 title: The Indicator Item
 parent: Set Up Salesforce Indicators
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 See [Indicator Bundle](../indicator-bundle) to set up the **Indicator Bundle** before setting up **Indicator Items**.
@@ -11,13 +11,13 @@ See [Indicator Bundle](../indicator-bundle) to set up the **Indicator Bundle** b
 ## Add a new Indicator Item
 * Go to the *Indicators Setup* Tab
 
-![Open Indicators Setup](../images/setup/OpenIndicatorsSetup.png){: width="590"}
+![Open Indicators Setup](../../images/setup/OpenIndicatorsSetup.png){: width="590"}
 
-💡 If you don't see the *Indicator Setup* Tab, then ensure you have granted your user the correct [Permissions](../install-salesforce-indicators).
+💡 If you don't see the *Indicator Setup* Tab, then ensure you have granted your user the correct [Permissions](../../install-salesforce-indicators).
 
 * Open the *Indicators Setup Menu*
 
-![Indicators Setup Menu](../images/setup/IndicatorsSetupMenu.png){: width="590"}
+![Indicators Setup Menu](../../images/setup/IndicatorsSetupMenu.png){: width="590"}
 
 * Use the *New* button to add a new **Indicator Item**
 
