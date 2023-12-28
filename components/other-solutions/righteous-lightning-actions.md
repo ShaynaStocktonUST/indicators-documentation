@@ -1,4 +1,11 @@
-# Component Name
+---
+layout: default
+grand-parent: Components
+parent: Other Solutions to Enhance your Salesforce Org
+title: Righteous Lightning Actions
+nav_order: 5
+has_children: false
+---
 
 * **Link:** [Righteous Lightning Actions](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FMpajUAD&tab=d) 
 * **Cost:** Free
@@ -72,3 +79,5 @@ But then it adds to that with highly customizable messages that can be displayed
 ### Use
 
 Look I really love this app, despite it's complexity. I would really love a combination of this app and our app for our Exceptions component. I love the way you can have formatting and links in messages. I think the UI could be tweaked a bit or made a bit more configurable (except that just makes the configuration even more challenging). I know our app is complex to set up to, but in both apps the complexity in setting this up with no code, is overshadowed by how much benefit this app (and our app) can bring to your users.
+
+Reviewer: Jodie Miners

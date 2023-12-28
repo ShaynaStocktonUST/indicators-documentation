@@ -23,6 +23,7 @@ has_children: false
  * Adobe Color has a color picker, so have SLDS icons or Salesforce in one screen and Adobe Color in another screen and pick the color from the Icon directly
 * Paste the hex colorcode into the Chrome search bar and the Chrome color picker will be displayed.
 * Use a tool like [ColorHex.com](https://www.color-hex.com/) and paste in the hex color to see shades, tints, and other color variations.
+* Coolers is another tool like the above tools, but it also includes a contrast checker and an excellent pallette visualiser [Coloors.co](https://coolors.co/)
   
 
 ## Accessibility

@@ -1,5 +1,11 @@
-# Picklist Image Coding Component
-Reviewer: Maria Śliska
+---
+layout: default
+grand-parent: Components
+parent: Other Solutions to Enhance your Salesforce Org
+title: Highlighter: Picklist Image Coding Component
+nav_order: 2
+has_children: false
+---
 
 * **Link:** https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000FKAzgUAH&tab=d
 * **Cost:** $500 USD/company/year
@@ -58,3 +64,5 @@ I tried few different ways of filling in the “Picklist value image one coded�
 ### Use
 
 I do not know how to make it work, so I do not feel like using it at all.
+
+Reviewer: Maria Śliska

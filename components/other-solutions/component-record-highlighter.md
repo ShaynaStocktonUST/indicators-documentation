@@ -1,6 +1,11 @@
-# Record Highlighter
-
-Reviewer: Maria Śliska
+---
+layout: default
+grand-parent: Components
+parent: Other Solutions to Enhance your Salesforce Org
+title: Highlighter: Record Highlighter
+nav_order: 3
+has_children: false
+---
 
 * **Link:** https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000QslCeEAJ&tab=d
 * **Cost:** $7.99 USD/company/month
@@ -54,3 +59,5 @@ I've set up rules for different input values in fields Rating and Annual Revenue
 
 ### Use
 For list view highlights use it's really OK.
+
+Reviewer: Maria Śliska

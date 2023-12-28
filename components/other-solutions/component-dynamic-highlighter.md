@@ -1,6 +1,11 @@
-# Highlighter: Dynamically highlight, rename, hide fields, conditional formatting
-
-Reviewer: Maria Śliska
+---
+layout: default
+grand-parent: Components
+parent: Other Solutions to Enhance your Salesforce Org
+title: Highlighter: Dynamically highlight, rename, hide fields, conditional formatting
+nav_order: 1
+has_children: false
+---
 
 * **Link:** https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000q4OxEAI&tab=e
 * **Cost:** Free
@@ -71,3 +76,5 @@ In my opinion, apart from the fact that it can slightly slower your page, it's a
 Though, I would rather use Indicators as they are not as "shouty". They do show what is important / missing and do not impact the layout as much.
 Specially that the end users will probably not be able to set up their own functions to use highlighter and will be left with functions set up by admin.
 I think Indicators are much more user friendly from the "viewer/user" perspective.
+
+Reviewer: Maria Śliska

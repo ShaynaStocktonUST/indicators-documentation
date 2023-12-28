@@ -1,4 +1,11 @@
-# Component Name
+---
+layout: default
+grand-parent: Components
+parent: Other Solutions to Enhance your Salesforce Org
+title: Component Name
+nav_order: 10
+has_children: false
+---
 
 * **Link:** Appexchange or blog post 
 * **Cost:** Free
@@ -32,3 +39,5 @@ Add Images and other notes about how you tested. Bullet points only
 ### Use
 
 Any notes about ongoing use of the Component
+
+Reviewer Name: 
