@@ -2,7 +2,7 @@
 layout: default
 grand_parent: Components
 parent: Other Solutions to Enhance your Salesforce Org
-title: Component Name
+title: Component Review Template
 nav_order: 10
 nav_exclude: true
 toc_exclude: true
