@@ -1,3 +1,11 @@
+---
+layout: default
+title: Cookbook
+parent: Recipe Ideas
+has_children: false
+nav_exclude: true
+---
+
 [Join us](How-to-Volunteer) to create a Recipe for any one of these ideas. 
 
 * High Value Client / Donor

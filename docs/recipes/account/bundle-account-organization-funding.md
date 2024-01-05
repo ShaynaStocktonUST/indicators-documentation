@@ -1,3 +1,13 @@
+---
+layout: default
+title: Account Bundle - Funding Information
+parent: Account
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
+
 ## Description
 
 > Use this bundle to appear on Organization Account page to show users key donor information for the Organization.

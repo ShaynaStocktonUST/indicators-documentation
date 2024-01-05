@@ -1,3 +1,12 @@
+---
+layout: default
+title: Account - Account Industry
+parent: Account
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 **Description**
 
 > Show different icons depending on the Type of Account

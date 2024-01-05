@@ -1,3 +1,12 @@
+---
+layout: default
+title: Cookbook
+parent: Recipe Template
+has_children: false
+nav_exclude: true
+---
+
+
 _This is a work in progress!_
 
 

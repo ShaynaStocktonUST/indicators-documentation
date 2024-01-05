@@ -1,3 +1,11 @@
+---
+layout: default
+title: Recipes
+nav_order: 6
+has_children: true
+---
+
+
 # Account 
 ## Bundles
 * [[Account Account Default]]

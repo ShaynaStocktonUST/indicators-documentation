@@ -1,3 +1,12 @@
+---
+layout: default
+title: Account - Account Type
+parent: Account
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 **Description**
 
 > Show different icons depending on the Type of Account. Set up the Extensions for only the Types you want to have Icons for. Other Types will display no Icon. Eg this example is for a Org who wants to be sure they know if the Account is a Partner or a Customer. 

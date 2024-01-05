@@ -1,3 +1,12 @@
+---
+layout: default
+title: Account - Grant Making Organization
+parent: Account
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 ## Description
 
 Show an icon if the Organization has the 'Grantmaker' box checked. 

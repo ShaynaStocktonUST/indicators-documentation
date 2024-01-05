@@ -1,3 +1,12 @@
+---
+layout: default
+title: Account - Organization Giving Level
+parent: Account
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 ## Description
 
 Show an icon if the Organization has donated in the past year, and on hover indicate the range 
