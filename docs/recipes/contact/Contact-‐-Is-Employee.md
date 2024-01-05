@@ -1,3 +1,13 @@
+---
+layout: default
+title: Contact - Is Employee
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
+
 ## Description
 
 Show an icon if the Contact has the 'Is Employee?' box checked. 

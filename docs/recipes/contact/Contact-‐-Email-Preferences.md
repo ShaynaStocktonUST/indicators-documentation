@@ -1,3 +1,12 @@
+---
+layout: default
+title: Contact - Email Opt Out
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 ## Description
 > An Indicator to show different color icons depending on the email preferences of the contact.
 

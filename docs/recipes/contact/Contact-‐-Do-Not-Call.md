@@ -1,3 +1,12 @@
+---
+layout: default
+title: Contact - Do Not Call
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 ## Description
 > An Indicator to show different color icons depending on the Do Not Call status of the contact.
 

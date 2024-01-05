@@ -1,3 +1,12 @@
+---
+layout: default
+title: Contact - Regular Donor Status
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 ## Description
 
 > This Indicator shows a different colour icon depending on the Regular Donor Status of the Contact. Based on a new field added to the Contact record - Regular Donor Status.  Add your own business logic (rollup, formula, flows) to populate this field from the recurring donations object.  Does not display if Regular Donor Status is blank.

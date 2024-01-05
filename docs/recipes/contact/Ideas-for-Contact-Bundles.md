@@ -1,3 +1,14 @@
+---
+layout: default
+title: Contact - Ideas for Contact Indicators
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
+
+
 # Contact Information Bundle
 **Description**
 

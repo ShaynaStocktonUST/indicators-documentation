@@ -1,3 +1,13 @@
+---
+layout: default
+title: Contact - My Contact
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
+
 **Description**
 
 > Show an Icon for contacts that I own.

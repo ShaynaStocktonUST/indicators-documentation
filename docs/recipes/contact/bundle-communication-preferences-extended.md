@@ -1,3 +1,14 @@
+---
+layout: default
+title: Contact Bundle - Communication Preferences Extended
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
+# Contact Bundle - Communication Preferences Extended
+
 ## Description
 > An extended version of the Contact Communication Preferences, useful for a Nonprofit org. 
 
@@ -18,7 +29,9 @@
 |Description|`Helpful to show the contact preferences of a Donor contact`
 
 ## Indicator Items
-[[Do Not Contact Item]]
+
+* [Do Not Contact](../contact/contact-do-not-contact)
+* [Email Marketing](../contact/contact-email-marketing)
 
 ## Contributed By
 Emma Keeling, [Salesforce_Em](https://github.com/Salesforce-Em)

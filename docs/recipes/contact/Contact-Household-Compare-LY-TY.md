@@ -1,3 +1,12 @@
+---
+layout: default
+title: Contact - Household Compare LY TY
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 ## Description
 > Show different icons depending on a comparison of the contact’s household’s last two years of giving.
 

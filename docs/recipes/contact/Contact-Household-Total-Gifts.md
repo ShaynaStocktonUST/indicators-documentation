@@ -1,3 +1,12 @@
+---
+layout: default
+title: Contact - Household Total Gifts
+parent: Contact
+grand_parent: Recipes
+has_children: false
+nav_exclude: true
+---
+
 ## Description
 
 > An Indicator to show different colour icon depending on the donation total for this contact's household. Based on the NPSP Donation Rollup.  
