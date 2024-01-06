@@ -8,13 +8,13 @@ nav_exclude: true
 ---
 
 
-# Contact: Mail Marketing
+# Contact - Mail Marketing
 
 ## Description
 > This indicator represents a contact who has requested to opt into Postal Mail Marketing.
 
 ## In Bundle
-* [Contact Communication Preferences](../bundle-contact-communication-preferences)
+* [Contact Communication Preferences](../contact/bundle-contact-communication-preferences.md)
 
 ## Images 
 

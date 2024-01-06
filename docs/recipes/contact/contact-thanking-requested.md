@@ -8,13 +8,13 @@ nav_exclude: true
 ---
 
 
-# Contact: Thanking Requested
+# Contact - Thanking Requested
 
 ## Description
 > This indicator represents a contact and their status of whether of not they receive Thanking for donations.
 
 ## In Bundle
-* [Contact Communication Preferences](../bundle-contact-communication-preferences)
+* [Contact Communication Preferences](../contact/bundle-contact-communication-preferences.md)
 
 ## Images 
 

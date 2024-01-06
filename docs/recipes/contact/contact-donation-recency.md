@@ -7,12 +7,14 @@ has_children: false
 nav_exclude: true
 ---
 
+# Contact - Donation Recency
+
 ## Description
 
 > This indicator shows a different colour icon depending on the number of days since the last donation. Based on the NPSP Donation Rollup - Last Donation Date (npo02__LastCloseDate__c). Add a formula field on Contact, named 'Donation Recency' with formula: TODAY()- npo02__LastCloseDate__c.  
 
 ## In Bundle
-* [[Contact: Donor Profile]]
+* [Contact: Donor Profile](../contact/bundle-contact-donor-profile.md)
 
 ## Fields
 | Fields | Value | 

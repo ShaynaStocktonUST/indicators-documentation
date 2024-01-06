@@ -7,6 +7,9 @@ has_children: false
 nav_exclude: true
 ---
 
+# Contact Bundle - Household Details
+
+
 ## Description
 > A bundle showing details of the Contact in a Household
 
@@ -25,7 +28,7 @@ nav_exclude: true
 |Card Text|`Compare Last Year to This Year`
 
 ## Indicator Items
-1. [[Contact: Household Compare LY TY]]
+1. [Contact: Household Compare LY TY](../contact/contact-household-compare-lyty.md)
 
 ## Notes
 * Think about what other icons you could add to this Bundle to help us understand what this Contact's household means to us.

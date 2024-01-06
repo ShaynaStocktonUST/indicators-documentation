@@ -8,13 +8,13 @@ nav_exclude: true
 ---
 
 
-# Contact: One-Off Donor
+# Contact - One-Off Donor
 
 ## Description
 > This indicator represents a contact who has only donated once.
 
 ## In Bundle
-* [Contact Donor Profile Extended](../bundle-contact-donor-profile-extended)
+* [Contact Donor Profile Extended](../contact/bundle-contact-donor-profile-extended.md)
 
 ## Images 
 

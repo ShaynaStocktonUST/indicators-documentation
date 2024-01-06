@@ -7,13 +7,14 @@ has_children: false
 nav_exclude: true
 ---
 
+# Contact - Total Gifts
 
 ## Description
 
 > This Indicator shows a different colour icon depending on the donation total for this contact. Based on the NPSP Donation Rollup field Total Gifts.  
 
 ## In Bundle
-* [[Contact: Donor Profile]]
+* [Contact: Donor Profile](../contact/bundle-contact-donor-profile.md)
 
 ## Fields
 

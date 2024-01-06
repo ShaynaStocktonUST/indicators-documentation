@@ -7,12 +7,14 @@ has_children: false
 nav_exclude: true
 ---
 
+# Contact - Household Total Gifts 
+
 ## Description
 
 > An Indicator to show different colour icon depending on the donation total for this contact's household. Based on the NPSP Donation Rollup.  
 
 ## In Bundle
-* [[Contact: Donor Profile]]
+* [Contact: Donor Profile](../contact/bundle-contact-donor-profile.md)
 
 ## Fields
 

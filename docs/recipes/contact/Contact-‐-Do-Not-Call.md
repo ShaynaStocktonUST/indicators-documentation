@@ -7,6 +7,8 @@ has_children: false
 nav_exclude: true
 ---
 
+# Contact - Do Not Call
+
 ## Description
 > An Indicator to show different color icons depending on the Do Not Call status of the contact.
 

@@ -8,13 +8,13 @@ nav_exclude: true
 ---
 
 
-# Contact: No Postcards Requested
+# Contact - No Postcards Requested
 
 ## Description
 > This indicator represents a contact who has requested not to receive postcards.
 
 ## In Bundle
-* [Contact Communication Preferences](../bundle-contact-communication-preferences)
+* [Contact Communication Preferences](../contact/bundle-contact-communication-preferences.md)
 
 ## Images 
 

@@ -8,13 +8,13 @@ nav_exclude: true
 ---
 
 
-# Contact: Regular Donor
+# Contact - Regular Donor
 
 ## Description
 > This indicator represents a contact who has donated regularly.
 
 ## In Bundle
-* [Contact Donor Profile Extended](../bundle-contact-donor-profile-extended)
+* [Contact Donor Profile Extended](../contact/bundle-contact-donor-profile-extended.md)
 
 ## Images 
 

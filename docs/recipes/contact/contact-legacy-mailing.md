@@ -7,14 +7,13 @@ has_children: false
 nav_exclude: true
 ---
 
-
-# Contact: Legacy Mailing
+# Contact - Legacy Mailing
 
 ## Description
 > This indicator represents a contact who has requested to not receive Legacy Mailing.
 
 ## In Bundle
-* [Contact Communication Preferences](../bundle-contact-communication-preferences)
+* [Contact Communication Preferences](../contact/bundle-contact-communication-preferences.md)
 
 ## Images 
 

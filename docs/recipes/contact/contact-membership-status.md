@@ -7,12 +7,14 @@ has_children: false
 nav_exclude: true
 ---
 
+# Contact - Membership Status
+
 ## Description
 
 > This indicator shows a different colour icon depending on the Membership Status of the Contact. Based on a new field added to the Contact record - 'Membership Status'.  Add your own business logic (rollup, formula, flows) to populate this field from the opportunities object, Membership record type.  Does not display if Membership Status is blank.
 
 ## In Bundle
-* [[Contact: Donor Profile]]
+* [Contact: Donor Profile](../contact/bundle-contact-donor-profile.md)
 
 ## Fields
 

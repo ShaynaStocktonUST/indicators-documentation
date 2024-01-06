@@ -7,9 +7,10 @@ has_children: false
 nav_exclude: true
 ---
 
+# Ideas for Contact Bundles
 
 
-# Contact Information Bundle
+## Contact Information Bundle
 **Description**
 
 > Use this bundle to identify key information on the contact
@@ -34,7 +35,7 @@ Contact Mailing Address
 Contact Mobile Phone
 Contact Home Email
 
-# Contact Key Details Bundle
+## Contact Key Details Bundle
 **Description**
 
 > Use this bundle to identify key details on the contact

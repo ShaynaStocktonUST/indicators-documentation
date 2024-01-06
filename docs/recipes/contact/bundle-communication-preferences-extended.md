@@ -13,7 +13,7 @@ nav_exclude: true
 > An extended version of the Contact Communication Preferences, useful for a Nonprofit org. 
 
 ## Image
-![commspreferences](https://github.com/SFDO-Community/Salesforce-Indicators/assets/2966583/bf53556a-e74b-404c-bf0b-ba3ad010d1fc)
+![Donor Profile](../../images/bundles/commspreferences.png){: width="250"}
 
 ## Fields
 
@@ -30,8 +30,13 @@ nav_exclude: true
 
 ## Indicator Items
 
-* [Do Not Contact](../contact/contact-do-not-contact)
-* [Email Marketing](../contact/contact-email-marketing)
+1. [Do Not Contact](../contact/contact-do-not-contact)
+1. [Decesaed](../contact/contact-deceased.md)
+1. [Mail Marketing](../contact/contact-mail-marketing.md)
+1. [Email Marketing](../contact/contact-email-marketing)
+1. [Thanking Requested](../contact/contact-thanking-requested.md)
+1. [Postcards Reuqested](../contact/contact-no-postcards-requested.md)
+1. [Legacy Mailing](../contact/contact-legacy-mailing.md)
 
 ## Contributed By
 Emma Keeling, [Salesforce_Em](https://github.com/Salesforce-Em)

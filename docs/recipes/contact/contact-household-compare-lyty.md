@@ -11,7 +11,7 @@ nav_exclude: true
 > Show different icons depending on a comparison of the contact’s household’s last two years of giving.
 
 ## In Bundle
-* [[Contact: Household]]
+* [Contact Household](../contact/bundle-contact-household.md)
 
 ## Images 
 

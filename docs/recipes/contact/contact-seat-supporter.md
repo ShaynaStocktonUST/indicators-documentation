@@ -8,13 +8,13 @@ nav_exclude: true
 ---
 
 
-# Contact: Seat Supporter
+# Contact - Seat Supporter
 
 ## Description
 > This indicator represents a contact who is supporting the organization by purchasing a regular seat at events.
 
 ## In Bundle
-* [Contact Donor Profile Extended](../bundle-contact-donor-profile-extended)
+* [Contact Donor Profile Extended](../contact/bundle-contact-donor-profile-extended.md)
 
 ## Images
 
