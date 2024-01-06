@@ -1,3 +1,11 @@
+---
+layout: default
+title: Contact Recipes
+parent: Recipes
+has_children: true
+nav_exclude: false
+---
+
 # Contact Recipes
 
 ## Bundles
