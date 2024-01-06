@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact - Thanking Requested
-parent: Contact
+parent: Contact Recipes
 grand_parent: Recipes
 has_children: false
 nav_exclude: true

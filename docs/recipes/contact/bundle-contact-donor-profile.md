@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Bundle - Donor Profile
-parent: Contact
+parent: Contact Recipes
 grand_parent: Recipes
 has_children: false
 nav_exclude: true
@@ -29,7 +29,7 @@ Add this bundle to the Contact Lightning Page to display when Total Number of Do
 
 ## Indicator Items
 
-<img src="https://user-images.githubusercontent.com/122455058/228901815-26d83a05-677a-4a69-9d8a-20e27c68e69c.png" width="250px">
+<img src="https://user-images.githubusercontent.com/122455058/228901815-26d83a05-677a-4a69-9d8a-20e27c68e69c.png" width="500px">
 
 In the order they are displayed in the Bundle:
 1. [Contact Household Total Gifts](../contact/contact-household-total-gifts.md)
@@ -39,7 +39,7 @@ In the order they are displayed in the Bundle:
 1. [Contact Regular Donor Status](../contact/contact-regular-donor-status.md)
 1. [Contact Membership Status](../contact/contact-membership-status.md)
 
-![Donor Profile](../../images/bundles/donorpreferences.png){: width="250"}
+![Donor Profile](../../images/bundles/donorpreferences.png){: width="500"}
 
 1. [Do Not Contact](../contact/contact-do-not-contact.md)
 1. [Contact Level](../contact/contact-contact-level.md)

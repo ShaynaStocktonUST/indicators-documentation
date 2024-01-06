@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Bundle - Communication Preferences Extended
-parent: Contact
+parent: Contact Recipes
 grand_parent: Recipes
 has_children: false
 nav_exclude: true
@@ -13,7 +13,7 @@ nav_exclude: true
 > An extended version of the Contact Communication Preferences, useful for a Nonprofit org. 
 
 ## Image
-![Donor Profile](../../images/bundles/commspreferences.png){: width="250"}
+![Donor Profile](../../images/bundles/commspreferences.png){: width="500"}
 
 ## Fields
 

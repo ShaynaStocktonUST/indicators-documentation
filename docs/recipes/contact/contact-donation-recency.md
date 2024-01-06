@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact - Donation Recency
-parent: Contact
+parent: Contact Recipes
 grand_parent: Recipes
 has_children: false
 nav_exclude: true
