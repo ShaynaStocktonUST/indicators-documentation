@@ -151,7 +151,12 @@ footer.site-footer {
   display: table;
 }
 
-.fields-table table colgroup col {
+.table-wrapper {
+  width: 80%;
+  table table-layout: auto;
+}
+
+/*.fields-table table colgroup col {
   width: auto !important;
 }
 
