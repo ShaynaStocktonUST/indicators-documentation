@@ -10,11 +10,12 @@ nav_exclude: false
 
 ## Bundles
 
+* [Ideas for Contact Bundles](../contact/ideas-for-contact-bundles.md)
+
 ### NPSP Specific
 * [Contact Donor Profile](../contact/bundle-contact-donor-profile.md)
 * [Contact Household](../contact/bundle-contact-household.md)
-* [Ideas for Contact Bundles](../contact/ideas-for-contact-bundles.md)
-* [Contact Communication Preferences Simple](https://github.com/SFDO-Community/Salesforce-Indicators/wiki/Contact:-Contact-Preferences)
+* [Contact Communication Preferences Simple](../contact/bundle-contact-communication-preferences.md)
 * [Contact Communication Preferences Extended](../contact/bundle-communication-preferences-extended.md)
 * [Contact Membership Due for Renewal](../contact/bundle-contact-membership-due-for-renewal.md)
 
