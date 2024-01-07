@@ -159,6 +159,10 @@ footer.site-footer {
   table-layout: auto;
 }
 
+.table-wrapper th:nth-child(1){
+  width:20%;
+}
+
 /*.fields-table table colgroup col {
   width: auto !important;
 }
