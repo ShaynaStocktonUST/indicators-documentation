@@ -20,7 +20,7 @@ nav_exclude: true
 
 ## Images 
 
-![First Non Empty](../../images/icons/first_non_empty_120.png){: width="50" bg-color="#ff538a"}
+![First Non Empty](../../images/icons/first_non_empty_120.png){: width="50" style="background-color:#ff538a; width:50px; height:50px;"}
 
 
 ## Fields
