@@ -24,7 +24,8 @@ nav_exclude: true
 |Field|`Do Not Call`|
 |Description| `When value true contact should not be called on any of the phones listed`|
 
-##Configuration
+## Configuration
+
 | Fields | Value | 
 |-----------|-----------|
 |Hover Text|`Do Not Call`|

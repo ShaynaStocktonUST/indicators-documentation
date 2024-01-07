@@ -153,7 +153,10 @@ footer.site-footer {
 
 .table-wrapper {
   width: 80%;
-  table table-layout: auto;
+}
+
+.table-wrapper table {
+  table-layout: auto;
 }
 
 /*.fields-table table colgroup col {
