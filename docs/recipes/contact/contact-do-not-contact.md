@@ -8,15 +8,15 @@ nav_exclude: true
 ---
 
 
-# Contact: Do Not Contact
+# Contact - Do Not Contact
 
 ## Description
 > This indicator represents a contact who has requested to not be contacted at all.
 
 ## In Bundle
-* [Contact Communication Preferences](../contact/bundle-contact-communication-preferences.md)
+* [Contact Communication Preferences](../contact/bundle-communication-preferences-extended.md)
 * [Contact Donor Profile](../contact/bundle-contact-donor-profile.md)
-* [Contact Preferences](../contact/bundle-contact-preferences.md)
+* [Contact Preferences](../contact/bundle-contact-communication-preferences.md)
 
 ## Images 
 
@@ -35,6 +35,7 @@ Hover Text | `Do Not Contact`
 Icon Value|`standard:first_non_empty`
 Show False or Blank | `TRUE`
 Zero Value Handling | `Treat Zeroes as Blanks`
+{: .fields-table}
 
 ## Preparation
 `npsp__Do_Not_Contact__c` is a standard NPSP field. 

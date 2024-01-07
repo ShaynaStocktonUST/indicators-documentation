@@ -13,7 +13,7 @@ nav_exclude: true
 > An Indicator to show different color icons depending on the Do Not Call status of the contact.
 
 ## In Bundle
-* [[Contact: Contact Preferences]]
+* [Contact Preferences](../contact/bundle-contact-communication-preferences.md)
 
 ## Fields
 
