@@ -20,8 +20,9 @@ Below are version release notes. Each release note will capture **Highlights** a
 - Select the Indicator Item by clicking the name (not Manage Records)
 - Scroll to the Page Layouts section at the bottom and click Edit next to the layout
 - Add the Display Multiple checkbox to the page
+
 {: .note-title }
-> RECOMMENDATION
+> Recommendation
 >
 > Recommended to replace the blank space in the first column with the Display Multiple checkbox
 
@@ -32,10 +33,11 @@ Below are version release notes. Each release note will capture **Highlights** a
 - Select the Indicator Item by clicking the name (not Manage Records)
 - Scroll to the Page Layouts section at the bottom and click Edit next to the layout
 - Add the Text Operator picklist to the page
+
 {: .note-title }
-> RECOMMENDATION
+> Recommendation
 >
-> > Recommended to add a blank space above the Active Checkbox in the second column, then add the Text Operator field under the Active Checkbox, and move the Contains Text field from the first column to the second column under the Text Operator just added
+> Recommended to add a blank space above the Active Checkbox in the second column, then add the Text Operator field under the Active Checkbox, and move the Contains Text field from the first column to the second column under the Text Operator just added
 
 ### Highlights
 
