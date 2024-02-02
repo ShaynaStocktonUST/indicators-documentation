@@ -9,6 +9,81 @@ has_children: false
 
 Below are version release notes. Each release note will capture **Highlights** and **Known Issues**. We will always try to link **Known Issues** to the **_Issues_** log on Github, as well as link any new features to their documentation.
 
+## 0.2.0.5
+
+### Upgrade Steps
+
+#### Indicator Item Page Layout: Add the Display Multiple field
+
+- Navigate to Setup
+- Quick Find Search for Custom Metadata Types
+- Select the Indicator Item by clicking the name (not Manage Records)
+- Scroll to the Page Layouts section at the bottom and click Edit next to the layout
+- Add the Display Multiple checkbox to the page
+{: .note-title }
+> RECOMMENDATION
+>
+> Recommended to replace the blank space in the first column with the Display Multiple checkbox
+
+#### Indicator Item Extension Page Layout: Add the Text Operator field
+
+- Navigate to Setup
+- Quick Find Search for Custom Metadata Types
+- Select the Indicator Item by clicking the name (not Manage Records)
+- Scroll to the Page Layouts section at the bottom and click Edit next to the layout
+- Add the Text Operator picklist to the page
+{: .note-title }
+> RECOMMENDATION
+>
+> > Recommended to add a blank space above the Active Checkbox in the second column, then add the Text Operator field under the Active Checkbox, and move the Contains Text field from the first column to the second column under the Text Operator just added
+
+### Highlights
+
+:sparkles: Extension Text Matching Logic:  Used to specify conditions for a field value to match the criteria of the extension. Note that the default (when left blank) will remain "contains" so it does not have to be set when upgrading the package.  
+
+New options are:
+- Contains (default)
+- Does Not Equal
+- Equals
+- Starts With
+
+:sparkles: Multiple Extension Matching:  Used to display multiple extensions when a field value matches the criteria of one or more extensions. Note that the default "has any value" will not be matched in this situation and will only display when no matches are found and it does not meet the the display false or blank.
+
+Updates to the Indicator Bundle Component:
+- Various spacing and UI adjustments
+- Removed help icon when no Bundle assigned
+- Resized the error image whe no Bundle assigned
+
+Updates to the Key Component: 
+- Multiple Extension Matching is indicated next to the Display Criteria column header with a help icon/text if this feature is enabled for a specific Indicator Item.
+- Object Name has been added to the details of the Bundle for more clarity
+- Enhanced the Fill Type descriptions to better articulate metadata configurations
+- Corrected the hardcoded empty static text to reflect user experience
+
+:sparkles: Metadeploy / Installation Updates:
+- Optional sample Account & Contact indicators and respective Lightning Record Pages
+- Optional set of Training indicators to teach functionality and configuration
+
+### Bug Fixes
+
+- Contains logic was not case sensitive
+- Static text was displaying more than 3 characters
+- Awkward space rendered when no card icon assigned to a Bundle
+- Certain settings for overriding the foreground/background would result in an icon/indicator not rendering
+
+### Developer Log
+
+- Release steps / notes document
+- Removed comments/console logs
+- Sample data through Snowfakery
+- Converted CSS from sds to slds
+- Removed miscellaneous, unused files from the package repo
+- Updates the GitHub issues template
+
+### Known Issues
+
+None at publishing
+
 ## 0.1.0.3
 
 Initial release of the package in a stable form.
