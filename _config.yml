@@ -109,6 +109,8 @@ callouts:
     color: green
   new-title:
     color: purple
+  note-title:
+    color: yellow
   warning:
     title: Warning
     color: red
@@ -121,5 +123,6 @@ callouts:
   new:
     title: New!
     color: purple
-  highlight:
+  note:
+    title: Note
     color: yellow
