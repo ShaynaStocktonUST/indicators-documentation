@@ -22,9 +22,9 @@ Below are version release notes. Each release note will capture **Highlights** a
 - Add the Display Multiple checkbox to the page
 
 {: .note-title}
-> Recommendation
+>Recommendation
 >
-> Recommended to replace the blank space in the first column with the Display Multiple checkbox
+>Recommended to replace the blank space in the first column with the Display Multiple checkbox
 
 #### Indicator Item Extension Page Layout: Add the Text Operator field
 
@@ -35,13 +35,14 @@ Below are version release notes. Each release note will capture **Highlights** a
 - Add the Text Operator picklist to the page
 
 {: .note-title}
-> Recommendation
+>Recommendation
 >
-> Recommended to add a blank space above the Active Checkbox in the second column, then add the Text Operator field under the Active Checkbox, and move the Contains Text field from the first column to the second column under the Text Operator just added
+>Recommended to add a blank space above the Active Checkbox in the second column, then add the Text Operator field under the Active Checkbox, and move the Contains Text field from the first column to the second column under the Text Operator just added
 
 ### Highlights
 
 ✨ **Extension Text Matching Logic**: 
+
 Used to specify conditions for a field value to match the criteria of the extension. Note that the default (when left blank) will remain "contains" so it does not have to be set when upgrading the package.  
 
 New options are:
@@ -51,14 +52,17 @@ New options are:
 - Starts With
 
 ✨ **Multiple Extension Matching**: 
+
 Used to display multiple extensions when a field value matches the criteria of one or more extensions. Note that the default "has any value" will not be matched in this situation and will only display when no matches are found and it does not meet the the display false or blank.
 
 **Updates to the Indicator Bundle Component**:
+
 - Various spacing and UI adjustments
 - Removed help icon when no Bundle assigned
 - Resized the error image whe no Bundle assigned
 
 **Updates to the Key Component**: 
+
 - Multiple Extension Matching is indicated next to the Display Criteria column header with a help icon/text if this feature is enabled for a specific Indicator Item.
 - Object Name has been added to the details of the Bundle for more clarity
 - Enhanced the Fill Type descriptions to better articulate metadata configurations
@@ -66,6 +70,7 @@ Used to display multiple extensions when a field value matches the criteria of o
 
 
 ✨ **Metadeploy / Installation Updates**:
+
 - Optional sample Account & Contact indicators and respective Lightning Record Pages
 - Optional set of Training indicators to teach functionality and configuration
 
