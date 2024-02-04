@@ -43,7 +43,7 @@ Below are version release notes. Each release note will capture **Highlights** a
 
 ✨ **Extension Text Matching Logic**: 
 
-Used to specify conditions for a field value to match the criteria of the extension. Note that the default (when left blank) will remain "contains" so it does not have to be set when upgrading the package.  
+Used to specify conditions for a field value to match the criteria of the extension. Note that the default (when left blank) will remain "contains" so it does not have to be set when upgrading the package. [Feature](https://github.com/SFDO-Community/Salesforce-Indicators/issues/111)
 
 New options are:
 - Contains (default)
@@ -53,7 +53,7 @@ New options are:
 
 ✨ **Multiple Extension Matching**: 
 
-Used to display multiple extensions when a field value matches the criteria of one or more extensions. Note that the default "has any value" will not be matched in this situation and will only display when no matches are found and it does not meet the the display false or blank.
+Used to display multiple extensions when a field value matches the criteria of one or more extensions. Note that the default "has any value" will not be matched in this situation and will only display when no matches are found and it does not meet the the display false or blank. [Feature](https://github.com/SFDO-Community/Salesforce-Indicators/issues/110)
 
 **Updates to the Indicator Bundle Component**:
 
@@ -71,15 +71,17 @@ Used to display multiple extensions when a field value matches the criteria of o
 
 ✨ **Metadeploy / Installation Updates**:
 
-- Optional sample Account & Contact indicators and respective Lightning Record Pages
+- Optional sample Account & Contact indicators and respective Lightning Record Pages [Feature](https://github.com/SFDO-Community/Salesforce-Indicators/issues/135)
 - Optional set of Training indicators to teach functionality and configuration
 
 ### Bug Fixes
 
-- Contains logic was not case sensitive
-- Static text was displaying more than 3 characters
-- Awkward space rendered when no card icon assigned to a Bundle
-- Certain settings for overriding the foreground/background would result in an icon/indicator not rendering
+- [Contains logic was not case sensitive](https://github.com/SFDO-Community/Salesforce-Indicators/issues/147)
+- [Static text was displaying more than 3 characters](https://github.com/SFDO-Community/Salesforce-Indicators/issues/144)
+- [Awkward space rendered when no card icon assigned to a Bundle](https://github.com/SFDO-Community/Salesforce-Indicators/issues/138)
+- [Certain settings for overriding the foreground/background would result in an icon/indicator not rendering](https://github.com/SFDO-Community/Salesforce-Indicators/issues/142)
+- [Fixed Spacing that changed in SLDS in Winter '24](https://github.com/SFDO-Community/Salesforce-Indicators/issues/132)
+
 
 ### Developer Log
 
