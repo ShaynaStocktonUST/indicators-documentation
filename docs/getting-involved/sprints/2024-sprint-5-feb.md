@@ -35,7 +35,7 @@ Full Name            | Team Role     | Github Username                          
 ------------         | ------------- | -------------                                      |-------------   
 Tim Schug   | Group Lead | [tschug](https://github.com/tschug)                            | Technical
 Emma Keeling | Group Lead | [Salesforce_Em](https://github.com/Salesforce-Em)| Documentation
-Jodie Miners | Team Lead | @JodieM | Documentation
+Jodie Miners | Team Lead | [JodieM](https://github.com/JodieM) | Documentation
 
 
 ## Future Contributions (AKA what were you unable to finish at the Sprint)
