@@ -22,7 +22,7 @@ If you are coming to a sprint, we don't want you to get discouraged because one 
 3.  [Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest) in your Trailhead Playground or Scratch Org
   * This will also install the Sample Indicators.
 4. Go to a Contact record, modify the Lightning Page, and see that the Indicators Component is on the Page.
-5. Modify an Indicator (see the [Indicator Item](../../docs/setup-salesforce-indicators/indicator-item/index.md) help doc. 
+5. Modify an Indicator - see the [Indicator Item](../../docs/setup-salesforce-indicators/indicator-item/index.md) help doc. 
 6. At one stage during the Sprint we may ask you to download your Custom Metadata, the easiest way is to install [Salesforce Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh) Chrome Extension.
 7. Ensure you are able to log into the [Github Documentation Repo](https://github.com/SFDO-Community-Sprints/indicators-documentation) (Ask one of the team to be added the Repo first). 
 8. Let the team know in the Slack Channel what you would like to work on.
