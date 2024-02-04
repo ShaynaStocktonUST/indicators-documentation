@@ -22,14 +22,14 @@ If you are coming to a sprint, we don't want you to get discouraged because one 
 3.  [Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest) in your Trailhead Playground or Scratch Org
   * This will also install the Sample Indicators.
 4. Go to a Contact record, modify the Lightning Page, and see that the Indicators Component is on the Page.
-5. Modify an Indicator (see the [Indicator Item](../../docs/setup-salesforce-indicators/indicator-item/index.md)
+5. Modify an Indicator (see the [Indicator Item](../../docs/setup-salesforce-indicators/indicator-item/index.md) help doc. 
 6. At one stage during the Sprint we may ask you to download your Custom Metadata, the easiest way is to install [Salesforce Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh) Chrome Extension.
 7. Ensure you are able to log into the [Github Documentation Repo](https://github.com/SFDO-Community-Sprints/indicators-documentation) (Ask one of the team to be added the Repo first). 
 8. Let the team know in the Slack Channel what you would like to work on.
 9. Have Fun! 
 10. Take it further: 
-    * Think about any of these steps you have done (especially installing, and setting up Indicators) and make notes as to how you can improve the help docs, and go ahead and modify the documentation.
-    * For tips for others on how to get any of the rest of this set up, then please edit this page
+    * Think about any of these steps you have done (especially installing, and setting up Indicators) and make notes as to how you can improve the help docs, and go ahead and modify the documentation (once you have access and have been shown how to!).
+    * For tips for others on how to get any of the rest of this set up, then please modify this document to add any hints and tips.
 
 {: .info-title}
 > Documentation Update
@@ -58,8 +58,8 @@ If you are coming to a sprint, we don't want you to get discouraged because one 
 11. Grab an issue from the Issues list and assign it to yourself. 
 12. Have Fun!
 13. Take it further: 
-    1. Think about any of these steps you have done (especially installing, and setting up Indicators) and make notes as to how you can improve the help docs, and go ahead and modify the documentation.
-    2. For tips for others on how to get any of the dev environments set up, then please modify this document to add any hints and tips. 
+    * Think about any of these steps you have done (especially installing, and setting up Indicators) and make notes as to how you can improve the help docs, and go ahead and modify the documentation (once you have access and have been shown how to!).
+    * For tips for others on how to get any of the dev environments set up, then please modify this document to add any hints and tips. 
 
 ### Hints and Tips for Devs
 
