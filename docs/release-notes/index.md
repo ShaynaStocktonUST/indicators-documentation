@@ -21,7 +21,7 @@ Below are version release notes. Each release note will capture **Highlights** a
 - Scroll to the Page Layouts section at the bottom and click Edit next to the layout
 - Add the Display Multiple checkbox to the page
 
-{: .note-title }
+{: .note-title}
 > Recommendation
 >
 > Recommended to replace the blank space in the first column with the Display Multiple checkbox
@@ -34,14 +34,15 @@ Below are version release notes. Each release note will capture **Highlights** a
 - Scroll to the Page Layouts section at the bottom and click Edit next to the layout
 - Add the Text Operator picklist to the page
 
-{: .note-title }
+{: .note-title}
 > Recommendation
 >
 > Recommended to add a blank space above the Active Checkbox in the second column, then add the Text Operator field under the Active Checkbox, and move the Contains Text field from the first column to the second column under the Text Operator just added
 
 ### Highlights
 
-:sparkles: Extension Text Matching Logic:  Used to specify conditions for a field value to match the criteria of the extension. Note that the default (when left blank) will remain "contains" so it does not have to be set when upgrading the package.  
+✨ **Extension Text Matching Logic**: 
+Used to specify conditions for a field value to match the criteria of the extension. Note that the default (when left blank) will remain "contains" so it does not have to be set when upgrading the package.  
 
 New options are:
 - Contains (default)
@@ -49,20 +50,22 @@ New options are:
 - Equals
 - Starts With
 
-:sparkles: Multiple Extension Matching:  Used to display multiple extensions when a field value matches the criteria of one or more extensions. Note that the default "has any value" will not be matched in this situation and will only display when no matches are found and it does not meet the the display false or blank.
+✨ **Multiple Extension Matching**: 
+Used to display multiple extensions when a field value matches the criteria of one or more extensions. Note that the default "has any value" will not be matched in this situation and will only display when no matches are found and it does not meet the the display false or blank.
 
-Updates to the Indicator Bundle Component:
+**Updates to the Indicator Bundle Component**:
 - Various spacing and UI adjustments
 - Removed help icon when no Bundle assigned
 - Resized the error image whe no Bundle assigned
 
-Updates to the Key Component: 
+**Updates to the Key Component**: 
 - Multiple Extension Matching is indicated next to the Display Criteria column header with a help icon/text if this feature is enabled for a specific Indicator Item.
 - Object Name has been added to the details of the Bundle for more clarity
 - Enhanced the Fill Type descriptions to better articulate metadata configurations
 - Corrected the hardcoded empty static text to reflect user experience
 
-:sparkles: Metadeploy / Installation Updates:
+
+✨ **Metadeploy / Installation Updates**:
 - Optional sample Account & Contact indicators and respective Lightning Record Pages
 - Optional set of Training indicators to teach functionality and configuration
 
