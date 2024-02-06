@@ -34,6 +34,9 @@ Well that is a long story over many years with involvement from many people... h
 ### What is the Salesforce.org Commons Program?
 [The Commons](https://www.salesforce.org/resources/commons/) creates opportunities and spaces for those in the community that wants to help solve technology challenges within the global Salesforce.org Nonprofit and Education sectors. It’s a community based approach to open source innovation for nonprofits and schools that everyone can participate in and contribute to.
 
+### Where is my new Indicator Item and how do I add it to the Bundle Items?
+It lives in Custom Metadata, but if you can't find it in the lookup you should still be able to add it to a Bundle Item (and then to a Bundle) by typing the name into the field.
+
 ### How can I suggest new features?
 Share your feedback and ideas in the [Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000HEDASA4?tab=discussion&sort=LAST_MODIFIED_DATE_DESC), managed by our volunteer team. 
 
