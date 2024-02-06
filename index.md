@@ -16,7 +16,7 @@ Salesforce Indicators is a Custom Metadata driven Lightning Web Component (LWC) 
 * **Make your data come alive** - Add a mix of Salesforce and custom colors to match your branding and create visually appealing indicators giving your users a more engaging experience. You can source icons from Salesforce SLDS, free or commercial sources, or even use Emojis.
 * **Customize your Indicators** - The no-code setup involves creating Custom Metadata Type records. No complex formulas or coding required. Group Indicators into bundles for different use-cases and users. Deploy from Sandbox to production.
 
-![Assign Permission Set](../images/setup/IndicatorsOnPage.png){: width="590"}
+![Indicators on a Lightning Page](/docs/images/setup/IndicatorsOnPage.png){: width="590"}
 
 ## Who will benefit from using Salesforce Indicators?
 
