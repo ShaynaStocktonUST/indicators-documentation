@@ -15,7 +15,7 @@ Just about any other icon can be used by using the _Image_ field option.
 
 ## Icons via URL
 
-* Salesforce Icons and [Logos](https://login.salesforce.com/logos) or [this website](https://login.salesforce.com/icons) for more icons and logos that you can use - enter Logo URL in the Image field 
+* Salesforce [Icons](https://login.salesforce.com/icons) and [Logos](https://login.salesforce.com/logos) for more icons and logos that you can use - enter Logo URL in the Image field 
 * There are a number of built-in icons, and the classic Sample Icons for Flag Green, Flag Red etc. See [this website](https://www.vermanshul.com/2017/10/quick-tips-salesforce-default-images.html) for a list of them all, (but this website doesn't show you the images) or [this website](http://salesforce-stuff.blogspot.com/2012/01/salesforce-images.html) (fewer, but the images are visible) or [this website](https://www.xbaf.com/salesforce-icons#slds), but many are ugly Classic style icons
 * Grab the URL of the Logo from your company's website and use that
 * [Graphics Pack Salesforce Labs App](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000004cfIcEAI) however the icons don't look so great when on the SLDS colored background.
