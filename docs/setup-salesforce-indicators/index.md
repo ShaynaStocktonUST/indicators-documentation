@@ -47,7 +47,7 @@ See [Install Salesforce Indicators](../install-salesforce-indicators/) if you ha
 
 ## 4. Add to your Lightning Page
 
-* Now you can add your Indicator Bundle to your [Lightning Page](../add-to-lightning-page).
+* Now you can add your Indicator Bundle to your [Lightning Page](add-to-lightning-page).
 * It will have no items, but it's just to show you that you are on the right track.
 
 ## 5. Add your Indicator Item/s
@@ -60,7 +60,7 @@ See [Install Salesforce Indicators](../install-salesforce-indicators/) if you ha
 
 ## 7. Review The Key
 
-* Once published, review [The Key](../the-key) and make any adjustments to improve the user experience.
+* Once published, review [The Key](the-key) and make any adjustments to improve the user experience.
 
 ## 8. Using Indicator Item Extensions
 
