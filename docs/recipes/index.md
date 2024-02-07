@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recipes
-nav_order: 6
+nav_order: 80
 has_children: true
 ---
 
