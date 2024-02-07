@@ -13,7 +13,7 @@ See [Indicator Bundle](../indicator-bundle) to set up the **Indicator Bundle** b
 
 ![Open Indicators Setup](../../images/setup/OpenIndicatorsSetup.png){: width="590"}
 
-💡 If you don't see the *Indicator Setup* Tab, then ensure you have granted your user the correct [Permissions](../../install-salesforce-indicators).
+💡 If you don't see the *Indicator Setup* Tab, then ensure you have granted your user the correct [Permissions](../../install-salesforce-indicators/#after-install).
 
 * Open the *Indicators Setup Menu*
 
