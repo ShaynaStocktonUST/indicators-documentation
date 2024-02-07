@@ -6,7 +6,7 @@ has_children: true
 ---
 
 ## Indicator Bundle
-The main Component of Salesforce Indicators right now is the [Indicator Bundle](../docs/setup-salesforce-indicators/indicator-bundle.md).
+The main Component of Salesforce Indicators right now is the [Indicator Bundle](../setup-salesforce-indicators/indicator-bundle.md).
 
 ## New Components
 However, we are not stopping there. We have two exciting new Components coming soon...
