@@ -4,6 +4,8 @@ nav_order: 70
 has_children: true
 ---
 
+## About Salesforce Indicators
+
 ## Who created Salesforce Indicators?
 
 Collaborating, creating, and sharing solutions for the purpose of helping others use technology comes as second nature to the Salesforce.org community. What makes Salesforce Indicators particularly special is that it was built by the community, for the community, through [The Commons](https://www.salesforce.org/resources/commons/) program. 

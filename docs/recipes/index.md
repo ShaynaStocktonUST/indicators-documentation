@@ -21,7 +21,7 @@ has_children: true
 * [[Account Matching Gift Organization]]
 * [Account is Government ](https://github.com/SFDO-Community/Salesforce-Indicators/wiki/Account-%E2%80%90-Is-Government)
 
-# Contact
+## Contact
 ## Bundles
 
 ### NPSP Specific

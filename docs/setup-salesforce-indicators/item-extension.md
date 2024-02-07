@@ -6,6 +6,8 @@ nav_order: 4
 has_children: false
 ---
 
+## Indicator Item Extension
+
 See [Indicator Item](../indicator-item) to set up the **Indicator Item** and [Indicator Bundle Item](../indicator-bundle-item) to set up the **Indicator Bundle Item** before setting up **Indicator Item Extensions**.
 
 ## Definition

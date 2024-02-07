@@ -5,6 +5,8 @@ nav_order: 50
 has_children: true
 ---
 
+## Components
+
 ## Indicator Bundle
 The main Component of Salesforce Indicators right now is the [Indicator Bundle](../setup-salesforce-indicators/indicator-bundle/).
 
