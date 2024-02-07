@@ -71,4 +71,4 @@ OR, alternatively:
 
 ## Next Steps
 * Create more **Indicator Item Extensions** as needed
-* Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../components/the-key)
+* Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../the-key)
