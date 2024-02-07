@@ -46,4 +46,4 @@ OR, alternatively:
 
 ## Next Steps
 * Add Optional [Extensions](../item-extension)
-* Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../components/the-key)
+* Add the Bundle to your [Lightning Page](../add-to-lightning-page) and check [The Key](../the-key)
