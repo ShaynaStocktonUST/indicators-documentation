@@ -38,4 +38,4 @@ The [Indicator Bundle](../indicator-bundle) is added to the Lightning Record Pag
 
 * Use the New button to add a new [Indicator Item](../indicator-item), and continue to add more Items
 * Use the New button to add a new [Indicator Bundle Item](../indicator-bundle-item) to link the Bundle to the Item
-* Check [The Key](the-key)
+* Check [The Key](../the-key)
