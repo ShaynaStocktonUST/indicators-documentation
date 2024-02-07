@@ -56,7 +56,7 @@ OR, alternatively
 * Titles and Icons are not required on Bundles, but they look best when the Large Icons are shown. a Bundle of small Icons used in a strip (see Examples) can look good with no Title and Icon. 
 * If in doubt, just use the standard icon matching that record (eg `standard:account`)
 * Don't use too many colors or icon styles. Try to stick with the [SLDS color pallette](https://www.lightningdesignsystem.com/design-tokens/){:target="_blank"}
-* See [Additional Complementary Apps and Components to Enhance Your Org](../../other-apps)
+* See [Additional Complementary Apps and Components to Enhance Your Org](../components/other-solutions/)
 
 ## Next Steps
 
