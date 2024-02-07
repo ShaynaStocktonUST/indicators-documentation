@@ -6,7 +6,7 @@ has_children: true
 nav_exclude: false
 ---
 
-# Contact Recipes
+## Contact Recipes
 
 ## Bundles
 

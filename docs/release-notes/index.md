@@ -5,7 +5,7 @@ nav_order: 100
 has_children: false
 ---
 
-# Release Notes
+## Release Notes
 
 Below are version release notes. Each release note will capture **Highlights** and **Known Issues**. We will always try to link **Known Issues** to the **_Issues_** log on Github, as well as link any new features to their documentation.
 

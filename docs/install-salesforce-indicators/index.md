@@ -3,7 +3,7 @@ title: Install Salesforce Indicators
 nav_order: 30
 has_children: false
 ---
-# Install Salesforce Indicators
+## Install Salesforce Indicators
 
 [Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest){: .noicon .btn .btn-green }{:target="_blank"}
 

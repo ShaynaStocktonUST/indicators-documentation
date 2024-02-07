@@ -5,6 +5,8 @@ nav_order: 2
 has_children: false
 ---
 
+## How to volunteer
+
 Salesforce Indicators is an open source solution, built by the community for the community through [The Commons](https://www.salesforce.org/resources/commons/) program. 
 
 * Join the next [Open Source Commons Sprint](https://www.salesforce.org/resources/commons/)

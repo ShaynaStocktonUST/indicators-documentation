@@ -9,7 +9,7 @@ has_children: true
 Reviews of other components that allow you to decorate and enhance your Lightning page and provide more information to your users, and why Indicators may be a better fit for you. 
 
 
-# Reviews
+## Reviews
 
 {: .tip}
 >

@@ -5,6 +5,7 @@ nav_order: 40
 has_children: true
 ---
 
+## Set Up Salesforce Indicators
 
 See [Install Salesforce Indicators](../install-salesforce-indicators/) if you have not already installed Salesforce Indicators.
 
