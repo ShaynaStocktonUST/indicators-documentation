@@ -3,9 +3,7 @@ title: Install Salesforce Indicators
 nav_order: 30
 has_children: false
 ---
-# Getting Started with Salesforce Indicators
-
-Thank you for choosing Salesforce Indicators to enhance your Lightning Pages! This documentation will help you get started using the app.
+# Install Salesforce Indicators
 
 [Install Salesforce Indicators](https://install.salesforce.org/products/indicators/latest){: .noicon .btn .btn-green }{:target="_blank"}
 
