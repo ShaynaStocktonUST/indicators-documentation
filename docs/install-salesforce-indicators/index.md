@@ -14,15 +14,27 @@ has_children: false
 
 Salesforce Indicators is a managed package and has been security reviewed by Salesforce. Installation, along with many other great Salesforce.org Open Source Commons applications, is done through Salesforce.org's [MetaDeploy installer](https://github.com/SFDO-Tooling/MetaDeploy){:target="_blank"}.
 
-* On the Metadeploy page, log into your org. You will be asked to give the Metadeploy tool access to your org. This is necessary for installation. 
-* Click the *Install* button.
+* On the Metadeploy page, log into your org. You will be asked to give the Metadeploy tool access to your org. This is necessary for installation.
+* Click the *Install Salesforce Indicators - View Details* button.
+* You will be presented with multiple options:
+    * For Production Orgs we recommend to not install Samples, Layouts, and Training Bundles
+    * For Developer, Trial, Scratch, or Trailhead Playground Orgs, we recommend to install Samples, Layouts and Tranining Bundles
+
+![Install Options](../images/setup/InstallPage.png){: width="590"}
+
+* Click *Install*
 * Confirm the Product Terms of Use and Licences around the use of the Open Source licence. 
 * The install will begin, you can expand the Steps section to see the progress of the Install. 
 * When the Installation is successful, click *View Org* to open your org. 
 
 As with all managed packages, the installed package is visible in *Setup* > *Installed Packages*.
 
-## After install
+## Using Samples
+See [Getting Started with Salesforce Indicators](../getting-started/index.md) for a guide to the Samples that are installed. 
+
+## Post Install Steps
+
+### Assign Permission Sets
 
 * Assign the Permission Set *Indicators Setup Access* to your Salesforce Administrator user.
 * See 📘 [Permissions Explained](../technical-documentation/permissions-explained.md) for Salesforce permissions needed, and more technical information.
@@ -31,6 +43,8 @@ As with all managed packages, the installed package is visible in *Setup* > *Ins
 
 * Assign the Permission Set *Indicators User Access* to your Users who will be viewing the Indicators. 
 * Using the App Launcher button (9 dots), search for *Indicators Setup* and open the Indicators Setup tab. 
+
+### Set Up Indicators
 
 ![Open Indicators Setup](../images/setup/OpenIndicatorsSetup.png){: width="590"}
 
