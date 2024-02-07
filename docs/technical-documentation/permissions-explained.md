@@ -30,5 +30,5 @@ has_children: false
 
 ## Next Step/s
 
-* See [Install Salesforce Indicators](../install-salesforce-indicators/) if you have not already installed Salesforce Indicators.
-* See [Setup Salesforce Indicators](../setup-salesforce-indicators/) to get set up to use Salesforce Indicators.
+* See [Install Salesforce Indicators](../../install-salesforce-indicators/) if you have not already installed Salesforce Indicators.
+* See [Setup Salesforce Indicators](../../setup-salesforce-indicators/) to get set up to use Salesforce Indicators.
